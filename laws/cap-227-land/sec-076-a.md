@@ -1,0 +1,5 @@
+# 76A. Modification of Cap. 8
+
+(1) Notwithstanding the provisions of sections 5, 7 and 29 of the Executive Committees (Judicial Powers) Act, the Parish or Ward Executive Committee Courts shall be the courts of first instance in respect of land disputes.
+
+(2) Notwithstanding the provisions of sections 28(2)(c) of the Executive Committees (Judicial Powers) Act, appeals on land matters from Division or Sub-County Executive Committee Courts shall lie to the respective District Land Tribunal and from the latter to the High Court and accordingly section 28(2) (c) of the Act shall not apply under this Act.
