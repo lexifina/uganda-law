@@ -1,0 +1,16 @@
+# Fourth Schedule (Articles 15, 81, 82, 98, 108, 109, 111, 115, 149 and 256)
+Oaths
+Oath of Allegiance
+I, ___________, swear in the name of the Almighty God/solemnly affirm that I will be faithful and bear true allegiance to the Republic of Uganda and that I will preserve, protect and defend the Constitution. [So help me God.]
+Oath of President/Vice President
+I, _____________, swear in the name of the Almighty God/solemnly affirm that I shall faithfully exercise the functions of the President/Vice President of Uganda and shall uphold, preserve, protect and defend the Constitution and observe the laws of Uganda and that I shall promote the welfare of the people of Uganda. [So help me God.]
+Judicial Oath
+I, _____________, swear in the name of the Almighty God/solemnly affirm that I will well and truly exercise the judicial functions entrusted to me and will do right to all manner of people in accordance with the Constitution of the Republic of Uganda as by law established and in accordance with the laws and usage of the Republic of Uganda without fear or favour, affection or ill will. [So help me God].
+Speaker/Deputy Speaker's Oath
+I, ___________________, swear in the name of the Almighty God/solemnly affirm that I will at all times well and truly serve the Republic of Uganda in the Office of Speaker/Deputy Speaker and that I will support and uphold the Constitution of the Republic of Uganda as by law established. [So help me God].
+Oath of Minister
+I, ____________________, being appointed a Minister of Uganda swear in the name of the Almighty God/solemnly affirm that I will at all times well and truly serve the Republic of Uganda in the office of a Minister; and that I will support and uphold the Constitution of the Republic of Uganda as by law established; and that I will to the best of my judgment at all times when required, freely give my counsel and advice to the President of Uganda and his/her successors in office as by law established for the good management of the public affairs of the Republic of Uganda; and that I will not directly or indirectly reveal any matter as shall come to my knowledge in the discharge of my duties and committed to my secrecy. [So help me God].
+Oath of Member of Parliament
+I, ____________________, swear in the name of the Almighty God/solemnly affirm that I will give faithful service to this Parliament and support and uphold the Constitution of the Republic of Uganda as by law established. [So help me God.]
+Oath of Secretary to the Cabinet
+I, __________________, being called upon to exercise the functions of Secretary to the Cabinet of Uganda swear in the name of the Almighty God/solemnly affirm that I will not directly or indirectly reveal such matters as shall be debated by the Cabinet and committed to my secrecy. [So help me God.]
