@@ -1,0 +1,13 @@
+# 3. Meaning of "excluded material"
+(1) Subject to the following provisions of this paragraph, in this Schedule "excluded material" means—
+(a) personal records which a person has acquired or created in the course of any trade, business, profession or other occupation, or for the purposes of any paid or unpaid office and which he holds in confidence;
+(b) human tissue or tissue fluid which has been taken for the purposes of diagnosis or medical treatment and which a person holds in confidence;
+(c) journalistic material which a person holds in confidence and which consists—
+(i) of documents; or
+(ii) of records other than documents.
+(2) A person holds material other than journalistic material in confidence, for the purposes of this paragraph if he or she holds it subject—
+(a) to an express or implied undertaking to hold it in confidence; or
+(b) to a restriction on disclosure or an obligation of secrecy contained in any enactment, including an enactment contained in an Act.
+(3) A person holds journalistic material in confidence for the purposes of this paragraph if—
+(a) he or she holds it subject to such an undertaking, restriction or obligation; and
+(b) one or more persons have continuously held it subject to such an undertaking, restriction or obligation since it was first acquired or created for the purpose of journalism.

@@ -1,0 +1,15 @@
+# 8. Order for production of excluded or special procedure material
+(1) An investigation officer may, for the purposes of a terrorist investigation, apply to a magistrate for an order under subparagraph (2) in relation to particular material or material of a particular description, being material consisting of excluded or special procedure material.
+(2) If, on such an application, the Magistrate is satisfied that the material consists of or includes any material mentioned in subparagraph (1), that it does not include items subject to legal privilege and that the conditions in subparagraph (5) are fulfilled, he or she may make an order that the person who appears to him or her to be in possession of the material to which the application relates shall—
+(a) produce it to an investigating officer for him or her to take away; or
+(b) give an investigating officer access to it,
+within such period as the order may specify and if the material is not in that person's possession (and will not come into his or her possession within that period) to state to the best of his or her knowledge and belief where it is.
+(3) An order under subparagraph (2) may relate to material of a particular description which is expected to come into existence or become available to the person concerned in the period of twenty-eight days beginning with the date of the order, and an order made in relation to such material shall require that person to notify a named investigating offrcer as soon as possible after the material comes into existence or becomes available to that person.
+(4) The period to be specified in an order under subparagraph (2), shall be seven days from the date of the order or, in the case of an order made by virtue of subparagraph (3), from the date of notification to the investigation officer, unless it appears to the Magistrate that a longer or shorter period would be appropriate in the paticular circumstances of the application.
+(5) The conditions referred to in subparagraph (2) are—
+(a) that a terrorist investigation is being carried out and that there are reasonable grounds for believing that the material is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purposes of which the application is made; and
+(b) that there are reasonable grounds for believing that it is in the public interest, having regard—
+(i) to the benefit likely to accrue to the investigation if the material is obtained; and
+(ii) to the circumstances under which the person in possession of the material holds it,
+that the material should be produced or that access to it should be given.
+(6) Where the Magistrate makes an order under subparagraph (2)(b) in relation to material on any premises, he or she may, on the application of an investigation officer, order any person who appears to him or her to be entitled to grant entry to the premises, to allow an investigation officer to enter the premises to obtain access to the material.

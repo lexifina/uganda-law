@@ -1,0 +1,3 @@
+# Long title
+An Act to suppress acts of terrorism, to provide for the punishment of persons who plan, instigate, support finance or execute acts of terrorism; to prescribe terrorist organisations and to provide for the punishment of persons who are members of, or who profess in public to be members of, or who convene or attend meetings of, or who support or finance or facilitate the activities of terrorist organisations; to provide for investigation of acts of terrorism and obtaining information in respect of such acts including the authorising of the interception of the correspondence of and the surveillance of persons suspected to be involved in acts of terrorism; and to provide for other connected matters.
+BE IT ENACTED by Parliament as follows:
