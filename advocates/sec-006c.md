@@ -1,0 +1,13 @@
+# 6C. Functions of Committee
+(1) The functions of the Committee are—
+(a) to serve as the medium of the Law Council in exercising general supervision and control over professional legal education in Uganda;
+(b) to approve courses of study and to provide for conduct of qualifying examinations for the purposes of this Act;
+(c) to prcscribe the professional requirements for admission to the post-graduate Bar Course and qualifications necessary for eligibility for enrolment as an advocate;
+(d) to conduct and promote continuing legal education for qualified legal practitioners; and
+(e) to prescribe the standards and courses for training and recognition of para-legals and their functions.
+(2) Meetings of the Committee shall be held at such times and places as the Chairperson of the Committee may determine.
+(3) The Chairperson of the Committee shall preside at all meetings of the Committee and in the absence of the Chairperson the members of the Committee present may elect a person from among their number to preside at that meeting.
+(4) The quorum at meetings of the Committee shall be five members but subject to the requirement of a quorum, the Committee may act notwithstanding any vacancy at the meeting.
+(5) Subject to the provisions of this section, the Committee shall have power to regulate its own proceedings and may make regulations governing its procedures.
+(6) The office of the Secretary of the Law Council shall provide a Secretary to the Committee who shall perform such functions as the Committee may assign to him or her.
+(7) In this section, "para-legal" means any person other than an advocate, whose occupation relates to the legal profession and requires knowledge or study of any aspect of the law.
