@@ -1,0 +1,2 @@
+# 4. Certificate of occupancy
+Upon being satisfied by affidavit or otherwise that the person, if any, properly entitled to occupation hereunder has taken occupation of the residential holding with a bona fide intention to continue the occupation or that there is no person entitled to occupation, the court shall issue a certificate in Form B of the Third Schedule to this Act to the personal representative and a duplicate of the certificate to the occupant, if any.
