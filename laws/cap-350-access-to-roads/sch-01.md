@@ -1,0 +1,5 @@
+# Schedule.
+
+s. 2. Form of application for leave to construct a road of access. 1. Name of applicant Place of abode Nationality 2. Name, situation and registered title reference of land or lease of land in respect of which the road of access is required, stating the title reference of land, county and all particulars which may assist in locating it 3. Name of public highway to which the road of access is required 4. Name or names of land over which it is proposed to construct the road of access, together with the name or names of the respective owner or owners of the land 5. The means of access (if any) to any highway at present available for the use of the applicant and whether use of that highway is subject to any payment or other terms or conditions 6. Whether any crops or building will be damaged or destroyed by the construction of the road of access; if so, to what extent 7. Maximum width between drains of proposed road of access 8. Any other facts of which the applicant is aware which may affect the grant Applicant
+
+History: Act 2/1969; S.I. 100/1969; Act 16/1998, s.72.
