@@ -1,0 +1,6 @@
+# Fifth Schedule (Sections 61, 99)
+Creation of rights of carriage way
+Creation of right of carriage way in a transfer of freehold land
+Together with full and free right and liberty to and for the transferee hereunder and to and for the registered proprietor and proprietors for the time being of the land hereby transferred or any part of it, and his, her and their tenants, servants, agents, workers and visitors to go, pass and repass at all times hereafter and for all purposes, and either with or without horses or other animals, carts or other vehicles into and out of and from the land or any part of it, through, over and along the road or way, or several roads or ways delineated and coloured brown on the plan.
+Creation of right of carriage way in a lease of freehold land
+Together with full and free right and liberty to and for the lessee and his or her transferees, proprietors for the time being of the land hereby leased or any part of it, and his, her and their tenants, servants, agents, workers and visitors to go, pass and repass at all times hereafter during the continuance of this lease, and for all purposes, and either with or without horses or other animals, carts or other vehicles, into and out of and from the land or any part of it, through, over and along the road or way or several roads or ways delineated and coloured brown on the plan.
