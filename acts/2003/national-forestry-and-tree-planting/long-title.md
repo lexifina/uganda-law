@@ -1,0 +1,3 @@
+# National Forestry and Tree Planting Act, 2003
+
+An Act to provide for the conservation, sustainable management and development of forests for the benefit of the people of Uganda; to provide for the declaration of forest reserves for purposes of protection and production of forests and forest produce; to provide for the sustainable use of forest resources and the enhancement of the productive capacity of forests; to provide for the promotion of tree planting; to consolidate the law relating to the forest sector and trade in forest produce; to establish a National Forestry Authority; to repeal the Forests Act, Cap. 246 and the Timber (Export) Act Cap. 247; and for related matters.
