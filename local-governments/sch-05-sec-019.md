@@ -1,0 +1,2 @@
+# 19. Penalties for false information
+When required to give information, any person who wilfully gives false information to an assessment committee, assessment office, a tax assessment appeals tribunal, chief administrative officer or town clerk or a collector gives any information which he or she knows or has reason to believe is false commits an offence and is liable on conviction to a term of imprisonment not exceeding one month or to a fine not exceeding one-half currency point or both.

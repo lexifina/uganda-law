@@ -1,0 +1,2 @@
+# 14. Unqualified persons sitting or voting in the council
+Any person who sits or votes in a local council after his or her seat has become vacant or he or she has become disqualified from sitting or voting in the local council, knowing or having reasonable grounds for knowing that he or she is disqualified, or that the seat has become vacant, as the case may be, commits an offence and is liable on conviction to a fine not exceeding ten currency points or imprisonment not exceeding one year or both.

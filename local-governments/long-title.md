@@ -1,0 +1,2 @@
+# Long title
+An Act to amend, consolidate and streamline the existing law on local governments in line with the Constitution to give effect to the decentralisation and devolution of functions, powers and services; to provide for decentralisation at all levels of local governments to ensure good governance and democratic participation in, and control of, decision making by the people; to provide for revenue and the political and administrative setup of local governments; and to provide for election of local councils and for any other matters connected to the above.
