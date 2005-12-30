@@ -16,6 +16,7 @@ Functions and services for which Government is responsible
 14. National elections.
 15. Energy policy.
 16. Transport and communications policy.
+16A. Development and upgrading of national roads.
 17. National censuses and statistics.
 18. Public services of Uganda.
 19. The judiciary.
@@ -23,7 +24,7 @@ Functions and services for which Government is responsible
 21. Education policy.
 22. National surveys and mapping.
 23. Industrial policy.
-24. Forest and game reserve policy.
+24. Forest and wildlife reserve policy and management.
 25. National research policy.
 26. Control and management of epidemics and disasters.
 27. Health policy.
