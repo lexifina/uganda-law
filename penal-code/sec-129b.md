@@ -1,0 +1,3 @@
+# 129B. Payment of compensation to victims of defilement
+(1) Where a person is convicted of defilement or aggravated defilement under section 129, the court may, in addition to any sentence imposed on the offender, order that the victim of the offence be paid compensation by the offender for any physical, sexual and psychological harm caused to the victim by the offence.
+(2) The amount of compensation shall be determined by the court and the court shall take into account the extent of harm suffered by the victim of the offence, the degree of force used by the offender and medical and other expenses incurred by the victim as a result of the offence.
