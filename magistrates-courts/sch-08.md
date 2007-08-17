@@ -6,7 +6,7 @@ Conditions of sale
 4. No bid by or on behalf of the judgment creditor will be accepted nor will any sale to him or her be valid without the express permission of the court.
 5. The person conducting the sale shall withdraw any lot if the highest bid for it appears so clearly inadequate as to make it advisable so to do.
 Form 4
-Notice to Show Cause Why Warrant of Arrest and Imprisonment Should not be Issued
+Notice to Show Cause why Warrant of Arrest and Imprisonment Should not be Issued
 The Magistrates Courts Act
 In the ______________________________ court of __________________
 Civil Case. No. ____________ of 20 ____

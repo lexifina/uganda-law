@@ -1,5 +1,5 @@
 # First Schedule (Section 161)
-Offences which cannot be tried and provisions which cannot be administered or enforced by magistrates grades II and III
+Offences which cannot be tried and provisions which cannot be administered or enforced by Magistrates Grade II
 Penal Code Act (Cap. 120)
 All the sections in Chapter VI which is headed "Treason and offences against the State".
 All the sections in Chapter VII which is headed "Offences affecting relations with foreign States and external tranquillity".

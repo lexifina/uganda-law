@@ -1,5 +1,5 @@
-# Third Schedule (section 219)
-Civil Procedure Rules for courts presided over by magistrates grades II and III
+# Third Schedule (Section 219)
+Civil Procedure Rules for courts presided over by Magistrates Grade II
 1. Interpretation
 In those Rules, unless the context otherwise requires—
 (a) "appellate court" means a court to which an appeal lies;
