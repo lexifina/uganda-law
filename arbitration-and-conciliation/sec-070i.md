@@ -1,0 +1,2 @@
+# 70I. Minister to lay Auditor General's report before Parliament
+The Minister shall, as soon as practicable after receiving the audited accounts of the Centre and the Auditor General's report under section 70.H, lay before Parliament the audited accounts of the Centre and the Auditor General's report.

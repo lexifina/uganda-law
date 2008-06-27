@@ -1,0 +1,2 @@
+# 70G. Estimates of the Centre
+The Centre shall, before the commencement of each financial year, submit to the Minister responsible for finance, estimates of income and expenditure of the Centre for the ensuing financial year.

@@ -4,26 +4,27 @@ Republic of Uganda
 Form I
 Submission to a Single Arbitrator
 In the matter of the Arbitration and Conciliation Act—
-Whereas differences have arisen and are still subsisting between ____________________________________ of _________________________________________________ and _______________________________ of ____________________________________ concerning _______________________________________________________.
+Whereas differences have arisen and are still subsisting between
+____________________________________ of _________________________________________________ and _______________________________ of ____________________________________ concerning _______________________________________________________.
 Now we, ___________________________________________________ and___________________________________________ do agree to refer the matters in difference to the award of__________________________________________________________________________________________.
-__________________________________________________ (Signed)
-Dated the __________________________________________________
+(Signed) __________________________________________________________________________________________
+Dated the__________________________________________________________________________________________
 Note: This form may be modified as necessary in the case of submission to more than one arbitrator.
 Form II
 Appointment of single arbitrator under agreement to refer future differences to arbitration
 In the matter of the Arbitration and Conciliation Act—
-Whereas, by an agreement in writing, dated the ____________________________________________________ day of _______________________, and made between ________________________________ of _________________________________ and _________________________________________________________ of ____________________________________, it is provided that differences arising between the parties to the agreement shall be referred to an arbitrator as mentioned in the agreement:
+Whereas, by an agreement in writing, dated the____________________________________________________ day of _______________________, and made between________________________________ of _________________________________and _________________________________________________________ of ____________________________________,it is provided that differences arising between the parties to the agreement shall be referred to an arbitrator as mentioned in the agreement:
 And whereas differences within the meaning of that provision have arisen and are still subsisting between the parties concerning ____________________________________________.
-Now we, the parties, _________________________________________________ and ________________________________________________________________, do refer the matter in difference to the award of ___________________________________________________.
-__________________________________________________ (Signed)
-Dated the _________________________
+Now we, the parties, _________________________________________________ and ________________________________________________________________, do refer the matter in difference to the award of___________________________________________________.
+(Signed) ______________________________________________________
+Dated the_________________________
 Note: This form may be modified as necessary in the case of submission to more than one arbitrator.
 Form III
 Enlargement of time by arbitrator by endorsement on agreement
 In the matter of the Arbitration and Conciliation Act, and an arbitration between
 ____________________________________________________ of _________________________________________________ and ____________________________________________ of ___________________________________________________.
-I enlarge the time of making my award in respect of the matters in difference referred to me by the within (or above) agreement until the _______ day of ______________
-__________________________________________________ (Signed)
+I enlarge the time of making my award in respect of the matters in difference referred to me by the within (or above) agreement until the _______day of ______________
+(Signed) _____________________________________________________________________
 Arbitrator
 Form IV
 Special case
@@ -36,17 +37,18 @@ Firstly, whether
 ____________________________________________________________
 Secondly, whether
 ____________________________________________________________
-__________________________________________________ (Signed)
+(Signed) _____________________________________________________________________________
 Arbitrator
 Dated the ____________ day of __________, 20 ________________
 Form V
 Award
 In the matter of the Arbitration and Conciliation Act, and an arbitration between __________________________________________ of ________________________________________ and _____________________________________________________ of __________________________________________________________________.
-Whereas, under an agreement in writing, dated the ____ day of _______________________, made between ____________________________________ of _______________________________________ and __________________________________________________________________, _________________________________________________ and _________________________________________________ have referred to me _____________________________________________________________________________ the matters in difference between them concerning (or as the case may be):
+Whereas, under an agreement in writing, dated the ____ day of _______________________, made between ____________________________________ of _______________________________________ and __________________________________________________________________, _________________________________________________ and _________________________________________________ have referred to me _____________________________________________________________________________ the matters in difference between them
+concerning (or as the case may be):
 Now I, ______________________________________________________________________, having duly considered the matters submitted to me do make an award as follows —
 I award—
 1. That __________________________________________________________________________________________
 2. That __________________________________________________________________________________________
-__________________________________________________ (Signed)
+(Signed) __________________________________________________________________________________________
 Arbitrator
 Dated the

@@ -1,0 +1,6 @@
+# 70H. Accounts and audit
+(1) The Centre shall keep proper books of account in respect of its income and expenditure in a form approved by the Auditor General.
+(2) The books of account of the Centre shall be audited within three months after the end of each financial year by the Auditor General or by an auditor appointed by him or her.
+(3) The Auditor General or the auditor appointed by the Auditor General shall be entitled to have access to all books of account and other financial records of the Centre and to require any information and explanation in relation to those books and records.
+(4) The Auditor General shall, within three months after the end of each financial year, submit to the Minister a copy of the audited accounts of the Centre together with his or her report on the accounts stating any matter which in his or her opinion has to be brought to the attention of the Minister.
+(5) The Auditor General shall, within three months after the end of each financial year, submit to the Centre a copy of the audited accounts and his or her report submitted to the Minister under subsection (4).
