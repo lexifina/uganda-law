@@ -1,0 +1,3 @@
+# National Audit Act, 2008
+
+An Act to give effect to article 154 (3) and 163 of the Constitution by providing for the Office of the Auditor General; to provide for the appointment, tenure and removal of the Auditor General; to provide for the staff of the Office of the Auditor General; to provide for the auditing of accounts of central Government, local government councils, administrative units; public organisations, private organisations and bodies; to empower and give the Auditor General right of access to documents and information relevant to the performance of his or her functions; and for other related matters.
