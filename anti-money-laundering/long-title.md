@@ -1,0 +1,3 @@
+# Long title
+An Act to provide for the prohibition and prevention of money laundering, the establishment of a Financial Intelligence Authority and a Financial Intelligence Authority Board in order to combat money laundering activities; to impose certain duties on institutions and other persons, businesses and professions who might be used for money laundering purposes; to make orders in relation to proceeds of crime and properties of offenders; to provide for international cooperation in investigations, prosecution and other legal processes of prohibiting and preventing money laundering; to designate money laundering as an extraditable offence; and to provide for other related matters.
+BE IT ENACTED by Parliament as follows:
