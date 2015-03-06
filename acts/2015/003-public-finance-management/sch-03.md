@@ -1,0 +1,3 @@
+# Schedule.
+
+3. Sources of data to be used for reporting fiscal performance The sources of data shall include the consolidated audited accounts of Government and the audited accounts of the Petroleum Revenue Holding Account and the Petroleum Revenue Investment Reserve. 4. Consistency of Charter for Fiscal Responsibility with the principles in section 5 This shall demonstrate how the fiscal objectives required under paragraph 1 of this Schedule are consistent with the principles in section 5 and the consistency shall be determined using the macroeconomic and fiscal data, assumptions, and projections of the economy and any financial updates.
