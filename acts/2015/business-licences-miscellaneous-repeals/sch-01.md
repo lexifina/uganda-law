@@ -1,0 +1,5 @@
+# SCHEDULE
+
+REPEALED ENACTMENTS Column 1 Title of the Act The Produce Protection Act, Cap. 32 The Fish Act, Cap.197 The Hides and Skins (Export Duty) Act Cap. 339 The Rivers Act, Cap. 357 The Companies Act, 2012 Column 2 Extent of Amendment The words "and imposing fees" appearing m section are repealed. Subsections (2) and (3) of section 11 are repealed Sections 3 and 4 are repealed. Section 9 is repealed Form B of the Second Schedule is repealed Section 22(2) is repealed. PARLIAMENT LIBRARY PO 8()X 117R KAMPA.l!..A * 05 JUN 2015 * Ace NU •.•••••••••••••••••••••••• CALL NO ....................... '" -
+
+.' THE REPUBLIC Of UGAi"IDA PARLIAMENT LIBRARY POBOX 1178 KAMPAlA '* 05 JUN 2015 * ACC NO .......................... CALL NO ....................... '" This printed impression has been carefully compared by me with the bill which was passed by Parliament and found by me to be a true copy of the bill. C<~v ...................... ~ ......... ~ ~ .............. . Clerk to Parliament . .;;zgIt./oS /20J( S Date of authentlcatlOn: ............................ ..
