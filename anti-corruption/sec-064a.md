@@ -1,0 +1,5 @@
+# 64A. Court to appoint a manager, receiver or administer
+(1) Where court makes a confiscation order and is satisfied that the property is realisable or requires special attention, it shall appoint a person to take control or manage or otherwise deal with the property.
+(2) A person appointed under subsection (1) shall within six months from the date of appointment, file in court an inventory of the property, interest confiscated together with an account of the proceeds recovered.
+(3) A person appointed under subsection (1) shall realise the property specified in the confiscation order and pay the proceeds in the manner prescribed by the Minister.
+(4) A person shall be qualified to be appointed a manager, receiver or administrator if he or she is qualified to act as an insolvency practitioner under the Insolvency Act.

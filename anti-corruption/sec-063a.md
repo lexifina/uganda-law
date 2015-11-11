@@ -1,0 +1,8 @@
+# 63A. Presumption of property or interest
+(1) In assessing the benefit derived by a person from the offence of corruption, it shall be rebuttable presumption that—
+(a) any property or interest acquired by the convict within a period of ten years preceding his or her conviction represents a proceed or benefit derived from the offence of corruption; or
+(b) any expenditure incurred by the convicted person at any time before conviction was met from property obtained by him or her as a result of the offence of corruption.
+(2) Where the Director of Public Prosecutions or the Inspector General of Government proves that the convicted person committed the offence of corruption prior to the period in subsection (1) (a), court shall take into account any property or interest acquired by the convicted person when accessing the value of the benefit enjoyed.
+(3) The Court shall not make a presumption under subsection (1) in relation to property, interest or expenditure if the presumption is shown to be correct, there would be a serious risk of injustice if the presumption were made.
+(4) A person convicted shall be given an opportunity to adduce evidence in rebuttal to the presumption that the property, interest or expenditure does not represent proceeds of an offence under this Act.
+(5) The proof in rebuttal under subsection (3) shall be on the balance of probabilities.
