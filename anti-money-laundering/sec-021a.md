@@ -1,0 +1,15 @@
+# 21A. Powers to enforce compliance
+(1) The enforcement of compliance with the provisions of this Act by an accountable person shall be the responsibility of the supervisory body of the accountable person.
+(2) Where the accountable person has no supervisory body, it is the responsibility of the Authority to ensure that that accountable person complies with the provisions of this Act.
+(3) The Authority or a supervisory body may direct any accountable person that has, without reasonable excuse, failed to comply in whole or in part with any obligations under this Act to comply.
+(4) Where an accountable person fails to comply with a directive issued under subsection (3), the Authority or the supervisory body, may, upon application to a court, obtain an order against any or all of the officers or employees of that accountable person on such terms as the court deems necessary to enforce compliance with the Act.
+(5) Subject to subsection (4) the court may order that should the accountable person or any officer or employee of the accountable person fail, without reasonable excuse, to comply with all or any of the provisions of the order, the accountable person or officer or employee shall pay a fine not exceeding one thousand eight hundred currency points, and may in addition pay an additional fine of one hundred and eighty currency point for each day that the failure to comply continues.
+(6) A supervisory body, in exercising its powers under this section may—
+(a) take any measures it considers necessary or expedient to meet its obligations as imposed by this Act or any other law, order, or directive made under this Act;
+(b) require a reporting person supervised or regulated by it and to whom the provisions of this Act apply, to report on that accountable person's compliance with this Act or any other law, order, or directive under this Act, in the form and manner determined by the supervisory body;
+(c) issue or amend any licence, registration, approval or authorisation that the supervisory body may issue or grant in accordance with any other law, to include the following conditions—
+(i) a requirement for compliance with this Act; or
+(ii) the continued availability of human, financial, technological and other resources to ensure compliance with this Act or any order or directive made under this Act.
+(d) ascertain whether a person is fit and proper to hold office in a reporting institution taking into account any involvement, whether directly or indirectly by that person in any non-compliance with this Act, order, directive or Regulations made under this Act or in any money laundering activity.
+(7) A supervisory body shall submit to the Authority, within such period and in such manner, as the Authority may in writing prescribe, a written report on any action taken against any reporting institution under this Act or any order, directive or regulations made under this Act.
+(8) The Authority and every supervisory body shall coordinate the exercise of powers and performance of functions under this Act to ensure the consistent application of this Act.
