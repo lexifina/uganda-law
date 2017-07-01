@@ -1,0 +1,3 @@
+# SCHEDULE
+
+s.3 East African Community Appropriation Act, 2017 Vote Services and Purpose US Dollars 1. East African Community Secretariat including the Defence Liaison Office and the Directorate of Customs and Trade. 60,038,901 2. East African Legislative Assembly 18,140,959 3. East African Court of Justice 4,140,166 4. Lake Victoria Basin Commission 11,960,643 5. Inter-University Council of East Africa 6,766,928 6. Lake Victoria Fisheries Organisation 2,466,655 7. East African Science and Technology Commission 1,500,164 8. East African Kiswahili Commission 1,553,098 9. East African Health Research Commission 2,225,324 10. East African Competition Authority 1,337,045 TOTAL 110,130,183
