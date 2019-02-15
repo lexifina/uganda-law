@@ -1,0 +1,5 @@
+# SCHEDULE
+
+E A C JUMUIYA YA AFRIKA MASHARIKI EAST AFRICAN COMMUNITY DECLARATION OF CONFLICT OF INTEREST FORM Name……………………………………………………………………………… Designation…………………………...…………………………………………… Description of Conflict of Interest Name and address of the person or institution with whom the Commissioner has an interest Nature of interest Estimated value of interest, if tangible Date interest was acquired Date the interest ceased (if applicable) Remarks if any I……………………………………………………, the undersigned holding the position of …………………………………………..at the EAC Competition Authority and being aware of the provisions of Rule 6 (1) of the EAC Competition Authority (Conduct of Meetings) Rules, 2018 declare the above information to be true to the best of my knowledge. Signature of Declarant……………………………………………………………… Date…………………………………… Submitted to………………………………………………………………………… Signature ……………………………………… Date…………………………… DIDAS MUGANGA KAYIHURA (PhD) Chairperson East African Community Competition Authority.
+
+East African Community Competition Authority (Conduct of Meetings) Rules, 2019.
