@@ -1,0 +1,3 @@
+# Investment Code Act, 2019
+
+An Act to revise, modernise and replace the Investment Code Act to make it conform with the Constitution; to continue in existence the Uganda Investment Authority established under that Act; to set out the objects of the Authority; to redefine the functions of the Authority; to modify the composition of the Board; to provide for the registration of investors and investment licences; to make the Authority a one stop centre for coordination, promotion, facilitation, monitoring and evaluation of investment and investors; to provide for finances, accounting and auditing; to provide for the submission of annual reports by the Authority and for other related matters.

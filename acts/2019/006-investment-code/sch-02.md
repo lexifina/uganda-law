@@ -1,0 +1,3 @@
+# SCHEDULE 2
+
+PRIORITY AREAS FOR INVESTMENT Section Priority areas 1. Agro processing; 2. Food processing; 3. Medical appliances; 4. Building materials; 5. Lighting industry; 6. Automobile manufacturing and assembly; 7. Household appliances; 8. Furniture; 9. Logistics and ware-housing; 10. Information technology; 11. Commercial farming; 12. Tourism; 13. Steel industry; 14. Chemical industries; 15. Textile and leather industry; 16. Oil milling industry; 17. Paper production; 18. Mining industry; 19. Glass and plastic products industry; 20. Ceramic industry; 21. Construction and building industry; 22. Real estate development industry; 23. Packaging industry; 24. Transport industry; 25. Pharmaceutical industry; or 26. Telecommunication industry.
