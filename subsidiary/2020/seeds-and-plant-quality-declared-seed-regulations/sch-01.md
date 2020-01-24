@@ -1,0 +1,11 @@
+# SCHEDULES
+
+Regulation I 0 SEED CROPS FIELD INSPECTION STANDARDS A. FIELD INSPECTION STANDARDS FOR SEED CROPS Lund rotations, minimum isolation and maximum off-types permissible Crop Species Land rotation Minimum Isola- off-types (seasons) lion (m) Cereals Maximum number per I 0,000 plants Sorghum I Rice I Finger millet I Wheat I I Barley I Pulses Beans I Cowpeas I Green gram I Pigeon peas I Oil seed crops Maximum number per 1,000 plants Soybean I Groundnut I Sesamr Root and Tuber Crops Cassava Potato Sweet Potato
+
+B. FIELD INSPECTION STAA'DARS FOR VEGETATIVELY PRO PAGA TED CROPS I. Sweet potato Plant Quality Vine length 25cm Tolerance for other varieties (varietal 2% purity) Tolerances for pests and diseases Root knot nematodes (RKNs) 1% Scurf 0% Black rot 0.5% Wireworms 10% Wilt 0.5 % SSR-Poxl 10% Mosaic and stunting virus 1% Sweet potato weevil None Other virus (e.g. purpling of old leaves, 5% chlorotic spots, vein clearing) Storage rot None Leaf curl (SPLCV)
+
+(1) % II. Potato Disease tolerance (Field inspection) Defect Tolerance Incorrect variety 1% Leaf roll (virus) 5% Severe mosaic (virus) 5% Total severe virus (leaf roll + severe mosaic) 10% Mild mosaic (virus) 10%
+
+Total virus 10% Blackleg 2% Bacterial wilt nil III. Tuber inspection tolerance (Post harvest Inspection) Disease/pest Individual Group totertolerance ance Wart disease (Synchytrium endobioticum nil nil Blight (Phytophthora infestans) 1% 5% Powdery scab (Spongospora subterranea 1% 8% Tuber necrosis caused by strains of PVY 0.5% 0.5% Soil 2% 2% Off-type - Tuber seed from field 1% 1% Off-type - Minituber and microtuber nil nil IV. Cassava Disease Tolerance Cassava Mosaic Disease (CMD) 0 plants Cassava Brown Streak Disease (CBSD) 0 plants Bacterial Blight (X. manihotis) 0 plants Root rot 0 plants Diplodia 0 plants
+
+SCHEDULE6 Regulation 16 (2) LABORATORY SEED TESTING STANDARDS FOR QDS (PHYSICAL PURITY, GERMINATION, MOISTURE CONTENT) Species Cereals Finger millet Wheat Barley Pulses Beans Pigeon pea Cowpeas Green gram Oil seed crops Sesame Groundnut Soybean Minimum Minimum Maximum moisture Physical Purity Genn ination content(%) (%) (%) HON. VINCENT SEMPIJJA Minister of Agriculture Animal Industry and Fisheriess
