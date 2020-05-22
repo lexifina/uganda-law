@@ -4,7 +4,7 @@ The Republic of Uganda
 Traffic Charges and Summons
 The Traffic and Road Safety Act
 In the magistrate's court of ______________________________________ at __________________________________ Criminal Case (Traffic) No. _______ of 20 _________ Vehicle Registration No. __________________.
-To: _____________________________________________________________________________________
+To: ____________________________________________________________________________________
 Summons
 Your attendance is necessary to answer to the charge/charges set out below and you are by this summons commanded to appear without fail in the magistrate's court of _______________________________ at _____________________________________ on the __________________________________ day of _________________________, 20 ____, at ____________________ a.m./p.m., or as soon thereafter as the case can be heard.
 Dated this___________________day of__________________, 20 _______.

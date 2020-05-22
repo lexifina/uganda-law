@@ -1,0 +1,3 @@
+# 125B. Custody or care of accident patients
+(1) Where a law enforcement officer is at the scene of an accident when an emergency medical service provider arrives, the law enforcement officer may prevent the emergency medical service provider from entering the scene of the accident to provide emergency medical service until the law enforcement officer determines that it is safe for the emergency medical service provider to enter.
+(2) The law enforcement officer shall permit the emergency medical service provider access to the patient to provide emergency medical care before transportation to a hospital or health facility.
