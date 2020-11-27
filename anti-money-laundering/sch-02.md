@@ -41,3 +41,8 @@ List of accountable persons
 ²This applies to financial activity in both the formal and informal sector, e.g., alternative remittance activity. It does not apply to any natural or legal person that provides other persons solely with message or other support systems for transmitting funds.
 ³This applies to both insurance undertakings and to insurance intermediaries (agents and brokers).
 15. Non-governmental organisations, churches and other charitable organisations.
+16. Virtual asset service providers, that is to say, a natural or legal person who conducts one or more of the following activities for or on behalf of another natural or legal person—
+(a) the exchange between virtual assets and fiat currencies;
+(b) the transfer of virtual assets;
+(c) the safekeeping or administration of virtual assets or instruments enabling control over virtual assets; and
+(d) the participation in or provision of financial services related to an insurer's offer or sale of a virtual asset.
