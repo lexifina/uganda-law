@@ -1,0 +1,3 @@
+# SCHEDULE 3
+
+Regulation 6(3), (4) and 14(h). STANDARDS FOR INORGANIC SUBSTANCES EFFLUENT Parameter or pollutant Units Maximum permissible Limit Aluminium mg/L 0.5 Antimony mg/L 0.5 Arsenic mg/L 0.1 Barium mg/L Beryllium mg/L 0.1 Cadmium mg/L 0.01 Calcium mg/L Chromium (Hexavalent) mg/L 0.05 Chromium (Total) mg/L 0.5 Cobalt mg/L 0.1 Copper mg/L 0.5 Iron (Total) mg/L 3.5 Lead mg/L 0.1 Magnesium mg/L Manganese mg/L Mercury mg/L 0.01 Nickel mg/L 0.5 Selenium mg/L 0.02 Silver mg/L 0.5 Tin mg/L Total Metal mg/L Vanadium mg/L Zinc mg/L Note Effluent requirements are for direct discharge into surface water, land or sewer.
