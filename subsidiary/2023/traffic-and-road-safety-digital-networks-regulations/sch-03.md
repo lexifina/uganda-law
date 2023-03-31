@@ -1,0 +1,3 @@
+# SCHEDULE 3
+
+FEES Reg 4 (3), 6(4) and 24 (4) (5) THE TRAFFIC AND ROAD SAFETY (DIGITAL NETWORKS) REGULATIONS, 2023 Item No. Matter under which the fee is payable Fees Shillings Application for licence for an online digital platform or network operator’s licence 1,500,000/= for one year 4,000,000/= for three years 6,000,000/= for five years 1,500,000/= for one year 4,000,000/= for three years 6,000,000/= for five years Duplicate licence 50% of the fee of the licence Search of register 20,000/= Certified copy of a document or extract in the register 20,000/= per page Certificate of compliance and filing of reports required by these Regulations 500,000/= per year GEN. EDWARD KATUMBA WAMALA, Minister of Works and Transport
