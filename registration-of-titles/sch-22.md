@@ -2,18 +2,24 @@
 Fees
 Shs.(Unless otherwise noted)
 1. | For every certificate of title issued | 10000
-2. | For assurance of title—
-(a) | under section 34 | 1% of the improved value of the land
-(b) | under section 167 | 0.5% of the unimproved value of the land
-3. | On lodgement for registration of— | 1.000015000e+23
-(a) | a transfer, lease, sublease, surrender of a lease or a sublease, mortgage or release of mortgage in the form prescribed in the Schedule to the Act
-(b) | any transaction referred to under subparagraph(a) of this paragraph when not in the prescribed form
+2. | For assurance of title— | 1% of the improved value of the land0.5% of the unimproved value of the land
+(a) | under section 34
+(b) | under section 167
+3. | On lodgement for registration of—
+(a) | a transfer, lease, sublease, surrender of a lease or a sublease, mortgage or release of mortgage in the form prescribed in the Schedule to the Act | 1.000015000e+23
+(b) | any transaction referred to under subparagraph (a) of this paragraph when not in the prescribed form
 (c) | any instrument or other document for the purpose of subdivision or amalgamation of land
 (d) | an application under section 134
 (e) | any dealing necessitating the registrar to dispatch through the post office by registered mail
+(f) | on registration fees in respect of transfer of land | one point five currency points
+(g) | on consent to transfer land | one currency point
+(h) | on application for extension of lease | one currency point
+(i) | on registration of a court order | one currency point
+(j) | on registration fees for a mortgage | two currency point
+(k) | on Certification of a mortgage | zero point two of a currency point
 4. | Where an instrument of lease, sublease or mortgage is lodged in triplicate, there is an additional fee of | 2000
-5. | On lodgement of— | 1000010000
-(a) | a caveat
+5. | On lodgement of—
+(a) | a caveat | 1000010000
 (b) | withdrawal of a caveat
 6. | For every application for issue of a special certificate of title | 15000
 7. | For every application under section 78 | 0.5% of the value of the land

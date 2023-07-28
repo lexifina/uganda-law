@@ -32,7 +32,7 @@ A judge of the High Court may, for reasonable cause, excuse any assessor from at
 (1) At each session of the High Court, the chief registrar shall cause to be made a list of the names of those who have attended as assessors at the sessions, and the list shall be kept with the list of assessors as revised under rule 4 of these Rules.
 (2) A reference shall be made in the margin of the revised list of each of the names which are mentioned in the list prepared under this section.
 9. Penalty for nonattendance of assessor
-(1) Any person summoned to attend as an assessor who, without lawful excuse, fails to attend as required by the summons, or who, having attended, departs without having obtained the permission of the court, or fails to attend after an adjournment of the court after having been ordered to attend, is liable by order of a judge of the High Court to a fine not exceeding four hundred shillings.
+(1)
 (2) A fine imposed under this rule shall be levied by a chief magistrate or a magistrate grade I by attachment and sale of any movable property belonging to the defaulter within the local limits of the jurisdiction of the magistrate.
 (3) For good cause shown, a judge of the High Court may remit or reduce any fine imposed under this rule.
 (4) In default of recovery of the fine by attachment and sale, the defaulter may, by order of a judge of the High Court, be imprisoned as a civil prisoner for a period of fifteen days unless the fine is paid before the end of that period.

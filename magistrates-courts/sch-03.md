@@ -146,7 +146,7 @@ Judgment may be given—
 (5) A sale of property under these Rules shall be by public auction, of which public notice in such manner as the court may direct shall first be given, and the magistrate shall guide persons conducting the sale on the value of the property being sold having regard to the prevailing prices of such property.
 (6) All proceeds from the sale of property under an execution order shall be deposited in court or disbursed to the relevant parties by the magistrate who shall reflect the disbursement on the case record.
 (7) The court broker or any other person carrying out the execution order shall after depositing the proceeds of the sale in the court, file his or her bill of costs of the execution with the magistrate who shall tax it and record it on the court file.
-(8) Before the court awards costs of executions in excess of twenty thousand shillings, it shall first refer the bill of costs to the chief magistrate for approval.
+(8)
 (9) Where the proceeds of sale under this rule exceed the decretal amount plus the costs of execution, the magistrate shall ensure that the balance in excess is repaid to the judgment debtor.
 32. Execution contrary to Rules
 (1) Any person who executes an order of the court contrary to the provisions of rules 30 or 31 commits an offence and on conviction is liable to imprisonment for three months.
