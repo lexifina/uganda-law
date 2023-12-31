@@ -1,2 +1,2 @@
 # Long title
-An Act relating to the transfer of land and registration of titles.
+An Act to provide for the transfer of land and the registration of titles.
