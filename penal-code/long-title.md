@@ -1,2 +1,2 @@
 # Long title
-An Act to establish a code of criminal law.
+An Act to establish a Code of criminal law.
