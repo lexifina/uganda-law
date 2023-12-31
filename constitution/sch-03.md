@@ -1,5 +1,5 @@
-# Third Schedule (Article 10 (a))
-Uganda's indigenous communities as at 1st February, 1926
+# Third Schedule (Article 10(a))
+Uganda's Indigenous Communities as at 1st February, 1926
 1. Acholi
 2. Aliba
 3. Alur
@@ -23,7 +23,7 @@ Uganda's indigenous communities as at 1st February, 1926
 21. Banyankore
 22. Banyara
 23. Banyaruguru
-24. Banyarwand
+24. Banyarwanda
 25. Banyole
 26. Banyoro
 27. Baruli
@@ -56,7 +56,7 @@ Uganda's indigenous communities as at 1st February, 1926
 54. Mening
 55. Mvuba
 56. Napore
-57. Ngikuito
+57. Ngikutio
 58. Nubi
 59. Nyangia
 60. Pokot
