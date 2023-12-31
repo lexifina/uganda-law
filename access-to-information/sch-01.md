@@ -1,3 +1,3 @@
-# Schedule
+# Schedule (Sections 3, 47)
 Currency point
-One currency point is equivalent to twenty thousand Uganda Shillings.
+A currency point is equivalent to twenty thousand shillings.
