@@ -1,0 +1,2 @@
+# Long title
+An Act to provide for the formation, registration, membership and organisation of political parties and organisations under Articles 71, 72 and 73 of the Constitution; to provide for the regulation of the financing and functioning of political parties and organisations; to prescribe a code of conduct for political parties and organisations and the establishment of a National Consultative Forum for political parties and organisations and for related matters.

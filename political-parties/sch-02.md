@@ -1,0 +1,75 @@
+# Schedule 2 (Sections 6(1)(b), 29(2))
+Districts in each of the traditional geographical regions of Uganda
+1. | Kalangala | Buganda
+2. | Kayunga
+3. | Kiboga
+4. | Luwero
+5. | Masaka
+6. | Mityana
+7. | Mpingi
+8. | Mubende
+9. | Mukono
+10. | Nakaseke
+11. | Nakasongola
+12. | Rakai
+13. | Sembabule
+14. | Wakiso
+1 | Abim | East
+2. | Amuria
+3. | Bugiri
+4. | Bukwo
+5. | Busia
+6. | Butaleja
+7. | Iganga
+8. | Jinja
+9. | Kaabong
+10. | Kaberamaido
+11. | Kaliro
+12. | Kamuli
+13. | Kapchorwa
+14. | Katakwi
+15. | Kotido
+16. | Kumi
+17. | Mayuge
+18. | Mbale
+19. | Moroto
+20. | Nakapiripirit
+21. | Namutumba
+22. | Pallisa
+23. | Sironko
+24. | Soroti
+25. | Tororo
+1. | Adjumani | North
+2. | Amolatar
+3. | Amuru
+4. | Apac
+5. | Arua
+6. | Dokolo
+7. | Gulu
+8. | Kitgum
+9. | Koboko
+10. | Lira
+11. | Moyo
+12. | Nebbi
+13. | Oyam
+14. | Pader
+15 | Yumbe
+1. | Buliisa | West
+2. | Bundibugyo
+3. | Bushenyi
+4. | Hoima
+5. | Ibanda
+6. | Isingiro
+7. | Kabale
+8. | Kaborole
+9. | Kamwenge
+10. | Kanungu
+11. | Kasese
+12. | Kibaale
+13. | Kiruhuura
+14. | Kisoro
+15. | Kyenjojo
+16. | Masindi
+17. | Mbarara
+18. | Ntungamo
+19 | Rukungiri
