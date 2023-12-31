@@ -1,6 +1,6 @@
-# Second Schedule (Section 38)
+# Schedule 2 (Sections 36, 37)
 Fees
-National application(shs.) | Foreign application(US $)
+National application (shs) | Foreign application (US $)
 Filing every notice and entering it | 10,000 | 10
 On issue of each certificate | 25,000 | 25
 Certifying any extract | 35,000 | 25
