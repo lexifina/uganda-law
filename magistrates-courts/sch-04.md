@@ -1,5 +1,5 @@
-# Appendix A
-Period of determination of judgment debtor (Rule 33)
+# Appendix A (Rule 33)
+Period of determination of judgment debtor
 Amount of judgment debt | Maximum period
 Not exceeding shs. 1,000 | One week
 Exceeding shs. 1,000 but not exceeding shs. 5,000 | One month
