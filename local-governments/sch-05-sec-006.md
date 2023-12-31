@@ -1,5 +1,0 @@
-# 6. Assessment of taxes by the tax assessment committee
-(1) If a person satisfies the assessment committee or person appointed to do the assessment that he or she is unable to speak or to understand the language used by the tax assessment committee, the committee carrying out the assessment shall be assisted by an interpreter who understands the language of the person to be assessed.
-(2) Where within one year of the making of an assessment by an assessment committee, the council concerned discovers in the assessment an error or miscalculation, the council shall order the amendment of the assessment, and a fresh certificate of assessment shall accordingly be issued.
-(3) Any amendment under subregulation (2) of this regulation resulting in a higher tax shall not be made without affording a hearing to the taxpayer, and the taxpayer shall have the right to appeal against the amended assessment.
-(4) Where an amendment under subregulation (2) of this regulation results in a lower tax, a taxpayer shall be credited with the balance in his or her favour for the tax of the following year.

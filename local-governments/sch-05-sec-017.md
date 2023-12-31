@@ -1,3 +1,0 @@
-# 17. Information to be supplied
-(1) Every person paying any rate or tax or obtaining exemption from a rate or tax shall furnish the collector with information that may be required by him or her in preparing the requisite receipt or certificate of exemption, and shall, if so required by the collector, attend personally before the assessment committee that carried out the assessment.
-(2) Any person who on being required under this regulation to attend before the assessment committee wilfully neglects or refuses to attend or, when attending, wilfully refuses to furnish any information lawfully required of him or her commits an offence and is liable on conviction to a fine not exceeding half a currency point.

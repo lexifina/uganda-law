@@ -1,2 +1,0 @@
-# 4. Limitation on expenditure for emoluments and allowances
-The expenditure of a local government council in a financial year on emoluments and allowances of chairperson, councillors, members of the district service commission, the district tender board, the local government public accounts committee and other district council committees shall not exceed 15 percent of the total local revenue collected by that local government council in the previous financial year.
