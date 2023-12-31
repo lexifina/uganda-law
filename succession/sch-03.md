@@ -1,21 +1,51 @@
-# Third Schedule (Section 31)
-Forms
-Republic of Uganda
-Form A
-Form of Notification of Appointment of Customary Heir
-The Succession Act
-To: Personal representative of _____________________________ and
-To: The Administrator General,
-Estate of _____________________________, deceased.
-Probate and Administration Cause No. __________ of 20 ____.
-We (appointing authority under customary law) of _____________________________ and I, _____________________________ (customary heir) of _____________________________, give you notice pursuant to section 31 of the Succession Act that on the ____ day of _________, 20 ____, at _____________________________ in the district/area of _____________________________ that _____________________________ (heir) was duly appointed to be the heir and successor of _____________________________, the deceased, in accordance with the customary law of the _____________________________ clan/tribe of which _____________________________, the deceased, was a member, and I, _____________________________, (heir) claim the interest in the property of _____________________________, the deceased, due to me as the customary heir.
-Signature _____________________________
-Signature _____________________________
-Witness to signatures _____________________________
-(State office)
-Form B
-Certificate of Occupancy
-In the High Court of Uganda at _____________________________
-Probate and Administration Cause No. _____________________________.
-Be it known that _____________________________ of _____________________________ in the district/area of _____________________________ is certified/there is no person entitled to be the lawful occupant(s) under section 26 of, and the Second Schedule to, the Succession Act of the land known as and registered at the Registry of Titles under Title No. _____________________ delineated in the plan annexed hereto and edged red.
-(Court seal)
+# Schedule 3 (Sections 22(3), 30(2))
+Rules relating to occupation of residential holdings
+1. Persons entitled to occupation
+In the case of a residential holding occupied by an intestate prior to his or her death as his or her principal residence, the following categories of persons, who were normally resident in the residential holding shall be entitled to occupy it—
+(a) the spouse of the intestate person;
+(b) a minor child of the intestate person, and where the child attains eighteen years of age he or she shall be eligible under paragraphs (c) or (d) as may be applicable;
+(c) a lineal descendant who is above eighteen years of age, who is undertaking studies; and
+(d) a lineal descendant who is by reason of mental or physical disability, incapable of maintaining himself or herself, until the cessation of the disability.
+2. Rights of cultivation, etc.
+A spouse or child who normally cultivated, farmed or tilled any land adjoining a residential holding owned by an intestate prior to his or her death shall have the right to cultivate, farm and till the land as long as he or she continues to be resident.
+3. Procedure where minor entitled
+Where a child or children are entitled to occupation under paragraph 1 and in fact occupy a residential holding, the person legally entitled to the custody of the child or of the majority of the children shall either himself or herself occupy or appoint some other suitable adult person or persons to occupy the residential holding for so long as any such child or any of such children continue to do so and the person so occupying shall be subject to the duties and liabilities of an occupier hereunder; except that in default of occupation by the person entitled to custody or his or her appointee, a magistrate may, on application of the personal representative or any person interested or on his or her own motion, appoint a person or persons to occupy as aforesaid.
+4. Certificate of occupancy
+Upon being satisfied by affidavit or otherwise that the person, if any, properly entitled to occupation hereunder has taken occupation of the residential holding with a bona fide intention to continue the occupation or that there is no person entitled to occupation, the court shall issue a certificate in the Form specified in Schedule 5 to this Act to the personal representative and a duplicate of the certificate to the occupant, if any.
+5. Assent
+The personal representative may assent in writing to the vesting of the residential holding or part of it in such person or persons as may be entitled to it under this Act subject if appropriate to occupancy of the residential holding in accordance with these Rules, but any writing purporting to effect the assent shall be void unless the certificate issued under paragraph 4 of this Schedule is recited in the writing and the certificate or a certified copy of it is annexed to the writing; except that a purchaser for value from the personal representative without notice shall not be concerned to see whether the certificate has been issued or not.
+6. Registration
+(1) Occupancy of a residential holding hereunder shall be deemed to be an interest in land capable of protection by a caveat under the Registration of Titles Act, and the interest of any other person in the residential holding shall be subject to that interest and shall be incapable of alteration subject to that interest; but the occupancy shall not be a tenancy.
+(2) The occupancy referred to in subparagraph (1) shall not prevail against a mortgagee under a mortgage created before the death of the intestate.
+7. Residential holding subject to covenants, etc.
+The occupant of a residential holding shall be bound by all covenants, conditions and encumbrances to which the residential holding or any part of it was subject at the death of the intestate and, in addition, shall perform and observe the following stipulations and conditions—
+(a) the occupant shall pay and discharge all existing and future rates, taxes, charges, duties, assessments and outgoings rated, charged, imposed or assessed upon the residential holding or upon its owner or occupier and shall pay the rent and other payments reserved by the lease, if any, under which the residential holding is held;
+(b) the occupant shall keep all buildings at any time situated on the residential holding and all sewers and drains and the hedges, fences and walls of the residential holding in good and tenantable repair and condition and decoration, fair wear and tear only excepted; except that the occupant shall be under no obligation to put the buildings in a better condition they were in at the death of the intestate;
+(c) the occupant shall not assign, let, charge or part with or share possession of the residential holding or any part of it;
+(d) the occupant shall permit the person entitled to the legal estate in the residential holding subject to the occupancy or his or her duly authorised agent with or without workers and others at reasonable times to enter upon and examine the condition of the residential holding, and thereupon such person may serve upon the occupant notice in writing specifying any repairs necessary to be done and require the occupant forthwith to execute the repairs; and if the occupant shall not within two months after service of the notice proceed diligently with the execution of the repairs, then the occupant shall permit such person to enter upon the residential holding and execute the repairs and the cost of the repairs shall, if the occupant continues to occupy the residential holding, be a debt due from the occupant to such person and be forthwith recoverable by action;
+(e) the occupant shall farm any land on the residential holding which is usually so farmed in a good and husbandlike manner and so as not to impoverish or deteriorate the land and shall keep and leave the land in good heart and condition;
+(f) the occupant shall not cut or fell any timber on the residential holding without the consent of the person entitled to the legal estate subject to the occupancy except such as may be reasonably required for domestic purposes by the occupant;
+(g) the occupant shall not build or permit or suffer to be built or erected any building on the residential holding nor make any additions or alterations to any buildings on the residential holding without the consent of the person entitled thereto subject to the occupancy;
+(h) upon the receipt of any notice, order, direction or other thing from any competent authority affecting or likely to affect the residential holding or any part of it, whether the same shall be served directly on the occupant or the original or a copy of it be received from any other person, the occupant will so far as the notice, order, direction or other thing or the Act, regulations or other instrument under or by virtue of which it is issued or the provisions of this paragraph require him or her so to do, comply therewith at his or her own expense and will forthwith deliver to the person entitled to the legal estate subject to the occupancy a copy of the notice, order, direction or other thing;
+(i) the occupant shall not do or permit or suffer to be done anything in or upon the residential holding or any part of it which may be or become a nuisance or annoyance or cause damage or inconvenience to the person entitled to the legal estate subject to the occupancy or to the neighbourhood or by which any insurance for the time being effected on the residential holding may be rendered void or voidable or by which the rate of premium on it may be increased;
+(j) the occupant shall not without consent of the person entitled to the legal estate subject to the occupancy use the residential holding or any part of it for any other purposes than the purpose for which it was used immediately prior to the death of the intestate;
+(k) upon the termination of the occupancy the occupant shall yield up the residential holding and all additions to it and all fittings and fixtures on it in good and tenantable repair in accordance with the stipulation in that behalf set out in this section.
+8. Termination by events
+(1) The occupancy of a residential holding hereunder shall be terminated automatically on the happening of any of the following events—
+(a) where the occupant is a spouse, upon remarriage or upon the spouse voluntarily leaving the principal residence or misusing it and putting it in disrepute;
+(b) upon the death of the occupant or all the occupants;
+(c) where the occupant is a minor of the intestate person, upon the attainment of eighteen years of age and on attainment of eighteen years of age, where applicable, subparagraph (1)(d) or paragraph 8(2) shall apply, as the case may be;
+(d) where the occupant is a lineal descendant of the intestate person and is above eighteen years of age but below twenty five years of age at the time of the death of the intestate person, upon the attainment of twenty five years of age ceasing to undertake studies or on becoming married, whichever first occurs;
+(e) upon the occupant or occupants ceasing to occupy the residential holding for a continuous period of six months;
+(f) upon surrender in writing signed by the occupant if adult or endorsed by the court if the occupancy is by a minor or minors; except that where any child or children of the description contained in paragraph 1 was or were resident with and dependent upon the occupant at the residential holding immediately before such event, the occupancy shall not terminate but the child or children shall succeed to it.
+(2) Where the intestate person is survived by a lineal descendant who has a disability specified in paragraph 1 (1)(d) and who is dependent on the intestate person for his or her livelihood, the lineal descendant who has a disability shall be entitled to occupy the principal residential holding for the duration of his or her lifetime, except where provision for the accommodation of that lineal descendant, at the same station in life, is made.
+9. Termination by court order
+(1) Any court having jurisdiction over the residential holding, having regard to its value upon application by the registered proprietor for the time being of the holding or any part of it, may order the termination of the occupancy of the residential holding or any part of it upon proof of existence of any one or more of the following grounds—
+(a) that the occupant has persistently failed to comply with one or more of the provisions of paragraph 7;
+(b) that suitable alternative accommodation is available for the occupant and any persons resident with and dependent on the occupant who would suffer no hardship by occupying the alternative accommodation instead of the residential holding;
+(c) that no hardship would be occasioned to the occupant or any person resident with and dependent upon the occupant if the occupant is paid a sum of money to be assessed by the court instead of being permitted to occupy the residential holding or part of it as the case may be and the applicant will immediately pay that sum to the occupant.
+(2) The court shall not be bound to order the termination even where someone or more grounds as above exist.
+(3) Where such application is made within one year from the death of the intestate and where there is any other person or persons who would have been entitled to occupancy but for the existence of the occupant, such person or persons shall be made party to the suit and the court may, after hearing such evidence in the matter as may be presented, order that the occupancy shall pass from the occupant to such person or one or more of such persons.
+(4) A person entitled to occupancy under this paragraph who is aggrieved by the decision of the court may within thirty days appeal against the court's order.
+10. Offences
+Any person who, prior to the issuance of a certificate under paragraph 4, evicts or attempts to evict from or does any act calculated to persuade or force any spouse or child of the intestate to quit a residential holding, who normally resided there at the date of death of the intestate, commits an offence and is liable, on conviction to a fine not exceeding seventy two currency points or to imprisonment for a term not exceeding three years, or both.

@@ -1,3 +1,3 @@
-# First Schedule (Section 23)
-Table of consanguinity
-[image]
+# Schedule 1 (Sections 2, 336)
+Currency point
+A currency point is equivalent to twenty thousand shillings

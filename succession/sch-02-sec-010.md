@@ -1,2 +1,0 @@
-# 10. Offences
-It shall be an offence punishable with imprisonment not exceeding six months or a fine not exceeding one thousand shillings or both for any person to evict or attempt to evict from a residential holding prior to the issue of a certificate under paragraph 4 of this Schedule any wife or child of an intestate who normally resided there at the date of death of the intestate or to do any act calculated to persuade or force any the wife or child to quit such holding prior to the issue of the certificate.
