@@ -1,11 +1,3 @@
-# Fifth Schedule (Section 41(2))
-Report of arrest
-Date ___________________________
-Polling station ____________________
-I, __________________________ being returning officer/presiding officer have arrested/caused the arrest or (particulars of person) ___________________ for the following reasons.
-___________________________________________________________________________
-___________________________________________________________________________
-___________________________________________________________________________
-___________________________________________________________________________
-__________________________
-Returning Officer/Presiding Officer
+# Schedule 5 (Section 10(6)(a))
+Declaration of person seeking to be nominated as candidate for election as president of Uganda
+[image]
