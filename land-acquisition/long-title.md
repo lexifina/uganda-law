@@ -1,2 +1,2 @@
 # Long title
-An Act to make provision for the compulsory acquisition of land for public purposes and for matters incidental thereto and connected therewith
+An Act to provide for the compulsory acquisition of land for public purposes and for related matters.
