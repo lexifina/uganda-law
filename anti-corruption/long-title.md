@@ -1,3 +1,2 @@
 # Long title
-An Act to provide for the effectual prevention of corruption in both the public and the private sector, to repeal and replace the Prevention of Corruption Act, to consequentially amend the Penal Code Act, the Leadership Code Act and to provide for other related matters.
-BE IT ENACTED by Parliament as follows:
+An Act to provide for the effectual prevention of corruption in both the public and the private sectors; to provide for mandatory confiscation of property of a person convicted of an offence under this Act; to provide for the procedure for issuing a confiscation order and for related matters.
