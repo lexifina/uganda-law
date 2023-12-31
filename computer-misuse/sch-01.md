@@ -1,3 +1,3 @@
-# Schedule (Section 2)
+# Schedule (Sections 1, 35)
 Currency point
-One currency point is equivalent to twenty thousand shillings.
+A currency point is equivalent to twenty thousand shillings.
