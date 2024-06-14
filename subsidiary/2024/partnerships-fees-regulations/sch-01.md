@@ -1,0 +1,5 @@
+# SCHEDULE
+
+Regulation 2 FEES No. MATTER Fee (Shs) 1. Registration of a notice of a minor repudiating the relationship in partnership 35,000 2. Registration of a notice of death of a partner 35,000 STATUTORY INSTRUMENTS SUPPLEMENT No. 18 14th June, 2024 STATUTORY INSTRUMENTS SUPPLEMENT to The Uganda Gazette No. 38, Volume CXVII, dated 14th June, 2024 Printed by UPPC, Entebbe, by Order of the Government.
+
+3. Registration of a notice of variation of terms of partnership 35,000 4. Registration of a notice of dissolution of a partnership 35,000 5. Registration of a notice of retirement of a partner 35,000 6. Filing a statement for registration of limited liability partnership 55,000 7. Application for registration of a notice of change in particulars of Limited Liability Partnership 55,000 8. Filing for registration of a statement of intent of conversion of partnership 55,000 9. Request for certified copy of forms and any other document on the register 35,000 10. Application for search of the register 35,000 Filing any other document under the Act or Regulations made under the Act 35,000 NORBERT MAO, Minister of Justice and Constitutional Affairs.
