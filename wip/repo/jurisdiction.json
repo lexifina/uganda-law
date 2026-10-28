@@ -4,7 +4,8 @@
   "name": "Uganda",
   "level": "country",
   "repo": "https://github.com/lexifina/uganda-law",
-  "build": "scrape",
+  "build": "built: Constitution of the Republic of Uganda (6 versions, 2000-12-31 to 2023-12-31); Penal Code Act (7 versions, 2000-12-31 to 2024-12-23); Data Protection and Privacy Act (1 version, 2019-05-03 to 2019-05-03)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
-  "register_date": "2026-10-28"
+  "register_date": "2026-10-28",
+  "sources": 2
 }
