@@ -1,0 +1,105 @@
+{
+ "country": "UG",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Uganda",
+   "url": "https://ulii.org/akn/ug/act/statute/1995/constitution",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 305,
+     "source_url": "https://web.archive.org/web/20250714124619id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2000-12-31",
+     "sha256": "6b9754bfb7023b334d8ff3cf85f1d175c3fa1846b5d5745d4e68efadf9010e1d"
+    },
+    {
+     "from": "2005-09-30",
+     "units": 319,
+     "source_url": "https://web.archive.org/web/20250708053429id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2005-09-30",
+     "sha256": "71ad57ba851b3fda267ffb20df67ae34804d7dabc42f35c347e5542049a0883a"
+    },
+    {
+     "from": "2005-12-30",
+     "units": 333,
+     "source_url": "https://web.archive.org/web/20250708041410id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2005-12-30",
+     "sha256": "bb14a7a710ed44f2c5cd12cc94529dd5cfa3c574b1a4b947d18d5795e3304466"
+    },
+    {
+     "from": "2015-08-24",
+     "units": 334,
+     "source_url": "https://web.archive.org/web/20250714123751id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2015-08-24",
+     "sha256": "43edfee677196aa5cab80f56795c7a5be1efc315913b6e55f75c4ce0e867c8f6"
+    },
+    {
+     "from": "2018-01-05",
+     "units": 335,
+     "source_url": "https://web.archive.org/web/20250721135411id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2018-01-05",
+     "sha256": "99dc00ebbd78732ae97653653b0d647de03eb6bc1c74ede3085bb94ded9b1cef"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 314,
+     "source_url": "https://web.archive.org/web/20260411084702id_/https://ulii.org/en/akn/ug/act/statute/1995/constitution/eng@2023-12-31",
+     "sha256": "bd674fab58b54c894c863bca852a85aafdc698407eebf13ed9607ef5381d69da"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "Penal Code Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1950/12",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 396,
+     "source_url": "https://web.archive.org/web/20250613044334id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2000-12-31",
+     "sha256": "adaeac3999b94abb335fe6e6dfb232b4248a9e1c53ddaae5af78233faea8d296"
+    },
+    {
+     "from": "2002-06-07",
+     "units": 396,
+     "source_url": "https://web.archive.org/web/20250613035624id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2002-06-07",
+     "sha256": "1e66f09180b81b4344090e4ed0fea64df1e1e436da0bf08b46dcce37454cc806"
+    },
+    {
+     "from": "2007-08-17",
+     "units": 398,
+     "source_url": "https://web.archive.org/web/20250622024244id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2007-08-17",
+     "sha256": "c5c33f5fc4abf9dd602980882207f337b45e20c2cc9f4a3023d430f178ff2dac"
+    },
+    {
+     "from": "2009-08-25",
+     "units": 398,
+     "source_url": "https://web.archive.org/web/20250519143746id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2009-08-25",
+     "sha256": "0410a6613c65138815f9d64cd3ac44f302d9ff91df3982679a1973ab994eeaae"
+    },
+    {
+     "from": "2010-09-03",
+     "units": 398,
+     "source_url": "https://web.archive.org/web/20250809092414id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2010-09-03",
+     "sha256": "973d26af3e8799d595b8566fd06fcaee077dde94f905224d8fcabcb7e020717e"
+    },
+    {
+     "from": "2014-05-09",
+     "units": 398,
+     "source_url": "https://web.archive.org/web/20250921112223id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2014-05-09",
+     "sha256": "b14af4601b74390391604bf1ccf1aa21c2a638a2c0525b8e47e8620ac8951dc7"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 371,
+     "source_url": "https://web.archive.org/web/20250905142704id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2023-12-31",
+     "sha256": "2249e0e04b3c9a594831a5fe259944694e38c03b2b67e161bf20ebaa3fed1726"
+    },
+    {
+     "from": "2024-12-23",
+     "units": 371,
+     "source_url": "https://web.archive.org/web/20260416202709id_/https://ulii.org/en/akn/ug/act/ord/1950/12/eng@2024-12-23",
+     "sha256": "bc2c57d5b269ca5f1b1316455be81124bb0fbea65240249b0b00ec490322538d"
+    }
+   ]
+  }
+ ]
+}

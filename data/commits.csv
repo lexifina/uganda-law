@@ -1,0 +1,15 @@
+day,kind,law,acts,files,branch
+2000-12-31,start,,constitution,305,main
+2000-12-31,start,,penal-code,396,main
+2002-06-07,law,act-2002-14,penal-code,2,main
+2005-09-30,law,act-2005-11,constitution,69,main
+2005-12-30,law,act-2005-21,constitution,22,main
+2007-08-17,law,act-2007-8,penal-code,10,main
+2009-08-25,law,act-2009-6,penal-code,14,main
+2010-09-03,law,act-2010-17,penal-code,4,main
+2014-05-09,law,act-2014-1,penal-code,1,main
+2015-08-24,law,act-2015-12,constitution,7,main
+2018-01-05,law,act-2018-1,constitution,10,main
+2023-12-31,unexplained,,constitution,255,main
+2023-12-31,unexplained,,penal-code,389,main
+2024-12-23,law,genn-2024-2917,penal-code,3,main
