@@ -2,221 +2,194 @@
  "acts": {
   "constitution": [
    {
-    "changed": 0,
-    "credited": 0,
     "from": "2000-12-31",
-    "units": 305
+    "units": 305,
+    "changed": 0,
+    "credited": 0
    },
    {
-    "changed": 69,
-    "credited": 69,
     "from": "2005-09-30",
-    "units": 319
+    "units": 319,
+    "changed": 69,
+    "credited": 69
    },
    {
-    "changed": 22,
-    "credited": 22,
     "from": "2005-12-30",
-    "units": 333
+    "units": 333,
+    "changed": 22,
+    "credited": 22
    },
    {
-    "changed": 7,
-    "credited": 7,
     "from": "2015-08-24",
-    "units": 334
+    "units": 334,
+    "changed": 7,
+    "credited": 7
    },
    {
-    "changed": 10,
-    "credited": 10,
     "from": "2018-01-05",
-    "units": 335
+    "units": 335,
+    "changed": 10,
+    "credited": 10
    },
    {
-    "changed": 255,
-    "credited": 0,
     "from": "2023-12-31",
-    "units": 314
+    "units": 314,
+    "changed": 255,
+    "credited": 0
    }
   ],
   "constitution:listing": {
    "lii_current": "2023-12-31",
-   "ok": true,
-   "ours": "2023-12-31"
-  },
-  "data-protection": [
-   {
-    "changed": 0,
-    "credited": 0,
-    "from": "2019-05-03",
-    "units": 42
-   }
-  ],
-  "data-protection:listing": {
-   "lii_current": "2023-12-31",
-   "ok": false,
-   "ours": "2019-05-03"
+   "ours": "2023-12-31",
+   "ok": true
   },
   "penal-code": [
    {
-    "changed": 0,
-    "credited": 0,
     "from": "2000-12-31",
-    "units": 396
+    "units": 396,
+    "changed": 0,
+    "credited": 0
    },
    {
-    "changed": 2,
-    "credited": 2,
     "from": "2002-06-07",
-    "units": 396
+    "units": 396,
+    "changed": 2,
+    "credited": 2
    },
    {
-    "changed": 10,
-    "credited": 10,
     "from": "2007-08-17",
-    "units": 398
+    "units": 398,
+    "changed": 10,
+    "credited": 10
    },
    {
-    "changed": 14,
-    "credited": 14,
     "from": "2009-08-25",
-    "units": 398
+    "units": 398,
+    "changed": 14,
+    "credited": 14
    },
    {
-    "changed": 4,
-    "credited": 4,
     "from": "2010-09-03",
-    "units": 398
+    "units": 398,
+    "changed": 4,
+    "credited": 4
    },
    {
-    "changed": 389,
-    "credited": 0,
     "from": "2023-12-31",
-    "units": 371
+    "units": 371,
+    "changed": 389,
+    "credited": 0
    },
    {
-    "changed": 3,
-    "credited": 3,
     "from": "2024-12-23",
-    "units": 371
+    "units": 371,
+    "changed": 3,
+    "credited": 3
    }
   ],
   "penal-code:listing": {
    "lii_current": "2024-12-23",
-   "ok": true,
-   "ours": "2024-12-23"
+   "ours": "2024-12-23",
+   "ok": true
+  },
+  "data-protection": [
+   {
+    "from": "2019-05-03",
+    "units": 42,
+    "changed": 0,
+    "credited": 0
+   }
+  ],
+  "data-protection:listing": {
+   "lii_current": "2023-12-31",
+   "ours": "2019-05-03",
+   "ok": false
   }
- },
- "check": {
-  "acts": 3,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 14
  },
  "fidelity": {
   "constitution@2000-12-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 305,
-   "units_differing": [
-    "sch-02"
-   ]
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "constitution@2005-09-30": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 319,
-   "units_differing": [
-    "sch-02"
-   ]
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "constitution@2005-12-30": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 333,
-   "units_differing": [
-    "sch-02"
-   ]
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "constitution@2015-08-24": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 334,
-   "units_differing": [
-    "sch-02"
-   ]
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "constitution@2018-01-05": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 335,
-   "units_differing": [
-    "sch-02"
-   ]
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "constitution@2023-12-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 314,
-   "units_differing": [
-    "sch-01",
-    "sch-02"
-   ]
-  },
-  "data-protection@2019-05-03": {
+   "units_differing": [],
    "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
-   "units": 42,
-   "units_differing": []
+   "text_outside_units_sample": ""
   },
   "penal-code@2000-12-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 396,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "penal-code@2002-06-07": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 396,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "penal-code@2007-08-17": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 398,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "penal-code@2009-08-25": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 398,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "penal-code@2010-09-03": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 398,
-   "units_differing": []
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "penal-code@2023-12-31": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 371,
-   "units_differing": [
-    "sec-138"
-   ]
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   },
   "penal-code@2024-12-23": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
    "units": 371,
-   "units_differing": [
-    "sec-138"
-   ]
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
+  "data-protection@2019-05-03": {
+   "units": 42,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
   }
  },
  "law_dates": {
