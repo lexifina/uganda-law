@@ -2,9 +2,14 @@
  "retrieved": "2026-10-28",
  "lii": {
   "name": "ULII",
-  "hosts": ["ulii.org"],
+  "hosts": [
+   "ulii.org"
+  ],
   "cc": "ug",
-  "path_prefixes": ["", "/en"],
+  "path_prefixes": [
+   "",
+   "/en"
+  ],
   "listing_prefix": "/en"
  },
  "country": {
@@ -14,7 +19,10 @@
   "lang": "en",
   "tz": "Africa/Kampala",
   "future_branch": "future",
-  "publisher": {"name": "ULII", "email": "ulii@ulii.invalid"},
+  "publisher": {
+   "name": "ULII",
+   "email": "ulii@ulii.invalid"
+  },
   "default_in_force_rule": {
    "text": "Not applied: every version is dated by ULII's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it (for a consolidation, the date the revised edition is as at). No date is computed from a default rule.",
    "source": "https://ulii.org/en/legislation/"
@@ -53,18 +61,13 @@
    "short": "Penal Code",
    "title": "Penal Code Act",
    "label": "Ordinance 12 of 1950"
-  },
-  {
-   "work": "2019/9",
-   "slug": "data-protection",
-   "short": "DPPA 2019",
-   "title": "Data Protection and Privacy Act, 2019",
-   "label": "Act 9 of 2019"
   }
  ],
  "decisions": [
-  "Phase 1 acts were chosen by what the archived source supports: every expression ULII lists for the Constitution (6) and the Penal Code Act (8) has an Internet Archive copy, so each version is read from its own dated expression.",
-  "The Revised Laws 2023 (the Law Reform Commission's revised edition, as at 31 December 2023) renumbered chapters and revised wording throughout; ULII publishes it as a consolidation, and its changes are committed as the publisher's, not credited to any Act, unless ULII's own note names the Act."
+  "Acts were chosen by what the archived sources support: every expression ULII lists for the Constitution (6) and the Penal Code Act (8) has an archived copy, so each version is read from its own dated expression.",
+  "The Revised Laws 2023 (the Law Reform Commission's revised edition, as at 31 December 2023) renumbered chapters and revised wording throughout; ULII publishes it as a consolidation, and its changes are committed as the publisher's, not credited to any Act, unless ULII's own note names the Act.",
+  "The Data Protection and Privacy Act 2019 was tried and dropped: ULII's current version of it is the Revised Laws 2023 expression (2023-12-31), which has no usable archived copy, so today's text could not be checked.",
+  "Licence and terms: ULII licenses its content CC BY-NC 4.0 with attribution, and its terms prohibit scraping and bulk downloading from its website; its robots.txt sends Content-Signal ai-train=no, ai-input=no and Crawl-delay 5, and its document pages answer automated clients with a Cloudflare challenge. No ULII document page was fetched: every version is read from an archived copy (Common Crawl or the Internet Archive), for the configured acts only. The user decided on 2026-10-28 that reading these archived copies is acceptable (relayed by the coordinator: \"scraping wayback is fair game, dont overdo it\"). The repository stays private; CC BY-NC allows only non-commercial use. No legal text was given to a model."
  ],
  "ai_use": [
   "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code."

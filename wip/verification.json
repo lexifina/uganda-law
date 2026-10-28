@@ -75,6 +75,12 @@
     "credited": 4
    },
    {
+    "from": "2014-05-09",
+    "units": 398,
+    "changed": 1,
+    "credited": 1
+   },
+   {
     "from": "2023-12-31",
     "units": 371,
     "changed": 389,
@@ -91,19 +97,6 @@
    "lii_current": "2024-12-23",
    "ours": "2024-12-23",
    "ok": true
-  },
-  "data-protection": [
-   {
-    "from": "2019-05-03",
-    "units": 42,
-    "changed": 0,
-    "credited": 0
-   }
-  ],
-  "data-protection:listing": {
-   "lii_current": "2023-12-31",
-   "ours": "2019-05-03",
-   "ok": false
   }
  },
  "fidelity": {
@@ -173,6 +166,12 @@
    "text_outside_units_chars": 0,
    "text_outside_units_sample": ""
   },
+  "penal-code@2014-05-09": {
+   "units": 398,
+   "units_differing": [],
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": ""
+  },
   "penal-code@2023-12-31": {
    "units": 371,
    "units_differing": [],
@@ -184,17 +183,11 @@
    "units_differing": [],
    "text_outside_units_chars": 0,
    "text_outside_units_sample": ""
-  },
-  "data-protection@2019-05-03": {
-   "units": 42,
-   "units_differing": [],
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": ""
   }
  },
  "law_dates": {
   "act-2002-14": {
-   "commenced": "2002-06-07",
+   "commenced": null,
    "dated": [
     "2002-06-07"
    ]
@@ -231,7 +224,9 @@
   },
   "act-2014-1": {
    "commenced": null,
-   "dated": []
+   "dated": [
+    "2014-05-09"
+   ]
   },
   "act-2015-12": {
    "commenced": null,
@@ -244,10 +239,6 @@
    "dated": [
     "2018-01-05"
    ]
-  },
-  "act-2019-9": {
-   "commenced": null,
-   "dated": []
   },
   "act-2021-19": {
    "commenced": null,

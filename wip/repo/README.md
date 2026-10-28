@@ -9,8 +9,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitution/` | [Constitution of the Republic of Uganda](https://ulii.org/akn/ug/act/statute/1995/constitution) | 6 | 2000-12-31 to 2023-12-31 |
-| `penal-code/` | [Penal Code Act](https://ulii.org/akn/ug/act/ord/1950/12) | 7 | 2000-12-31 to 2024-12-23 |
-| `data-protection/` | [Data Protection and Privacy Act](https://ulii.org/akn/ug/act/2019/9) | 1 | 2019-05-03 to 2019-05-03 |
+| `penal-code/` | [Penal Code Act](https://ulii.org/akn/ug/act/ord/1950/12) | 8 | 2000-12-31 to 2024-12-23 |
 
 **Constitution of the Republic of Uganda**
 
@@ -32,14 +31,9 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | 2007-08-17 | Act 8 of 2007 |
 | 2009-08-25 | Chapter 116 |
 | 2010-09-03 | Act 17 of 2010 |
+| 2014-05-09 | Act 1 of 2014 |
 | 2023-12-31 | publisher (ULII): 389 provision(s) unexplained |
 | 2024-12-23 | General Notice 2917 of 2024 |
-
-**Data Protection and Privacy Act**
-
-| In force | Author |
-| --- | --- |
-| 2019-05-03 | Act 9 of 2019 (as enacted) |
 
 Each folder's `README.md` lists every provision, how often it changed and when.
 
