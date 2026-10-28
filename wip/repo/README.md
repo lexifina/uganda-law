@@ -21,7 +21,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | 2005-12-30 | Act 21 of 2005 |
 | 2015-08-24 | Act 12 of 2015 |
 | 2018-01-05 | Act 1 of 2018 |
-| 2023-12-31 | publisher (ULII): 256 provision(s) unexplained |
+| 2023-12-31 | publisher (ULII): 255 provision(s) unexplained |
 
 **Penal Code Act**
 
