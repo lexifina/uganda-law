@@ -1,0 +1,10 @@
+{
+  "path": "ug",
+  "code": "UG",
+  "name": "Uganda",
+  "level": "country",
+  "repo": "https://github.com/lexifina/uganda-law",
+  "build": "scrape",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
