@@ -27,9 +27,9 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | In force | Author |
 | --- | --- |
 | 2000-12-31 | publisher (ULII): oldest version available |
-| 2002-06-07 | Chapter 120 |
+| 2002-06-07 | Act 14 of 2002 |
 | 2007-08-17 | Act 8 of 2007 |
-| 2009-08-25 | Chapter 116 |
+| 2009-08-25 | Act 6 of 2009 |
 | 2010-09-03 | Act 17 of 2010 |
 | 2014-05-09 | Act 1 of 2014 |
 | 2023-12-31 | publisher (ULII): 389 provision(s) unexplained |
