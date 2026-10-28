@@ -1,0 +1,72 @@
+{
+ "retrieved": "2026-10-28",
+ "lii": {
+  "name": "ULII",
+  "hosts": ["ulii.org"],
+  "cc": "ug",
+  "path_prefixes": ["", "/en"],
+  "listing_prefix": "/en"
+ },
+ "country": {
+  "code": "UG",
+  "name": "Uganda",
+  "slug": "uganda",
+  "lang": "en",
+  "tz": "Africa/Kampala",
+  "future_branch": "future",
+  "publisher": {"name": "ULII", "email": "ulii@ulii.invalid"},
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by ULII's own expression date, the day the amendment it incorporates took effect as Laws.Africa records it (for a consolidation, the date the revised edition is as at). No date is computed from a default rule.",
+   "source": "https://ulii.org/en/legislation/"
+  },
+  "licence_note": "Source: ULII, the Uganda Legal Information Institute (https://ulii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "ULII, the Uganda Legal Information Institute (Judiciary of Uganda, on the Laws.Africa Peachjam platform)",
+   "url": "https://ulii.org",
+   "retrieved": "2026-10-28",
+   "requests": "count",
+   "licence": "CC BY-NC 4.0, crediting ULII as the source (https://ulii.org/en/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act, /akn/ug/act/<...>/eng@<date>. ULII's document pages answer automated clients with a Cloudflare challenge, so each expression page is read from its latest Internet Archive capture (raw id_ form, under /akn/ or /en/akn/); the capture timestamps and sha256s are pinned in sources.json. Request count covers the Internet Archive and ULII's open listing pages."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Archived copies of ULII pages; the content licence is ULII's",
+   "notes": "CDX API for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes."
+  }
+ ],
+ "acts": [
+  {
+   "work": "statute/1995/constitution",
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Uganda, 1995",
+   "label": "Constitution of 1995"
+  },
+  {
+   "work": "ord/1950/12",
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "Penal Code Act",
+   "label": "Ordinance 12 of 1950"
+  },
+  {
+   "work": "2019/9",
+   "slug": "data-protection",
+   "short": "DPPA 2019",
+   "title": "Data Protection and Privacy Act, 2019",
+   "label": "Act 9 of 2019"
+  }
+ ],
+ "decisions": [
+  "Phase 1 acts were chosen by what the archived source supports: every expression ULII lists for the Constitution (6) and the Penal Code Act (8) has an Internet Archive copy, so each version is read from its own dated expression.",
+  "The Revised Laws 2023 (the Law Reform Commission's revised edition, as at 31 December 2023) renumbered chapters and revised wording throughout; ULII publishes it as a consolidation, and its changes are committed as the publisher's, not credited to any Act, unless ULII's own note names the Act."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote the adapter and configuration and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code."
+ ]
+}
