@@ -38,6 +38,12 @@
     "credited": 0
    }
   ],
+  "constitution:archive": {
+   "last_version": "2023-12-31",
+   "captured": "20260411084702",
+   "via": "wayback",
+   "history_after_last": []
+  },
   "constitution:listing": {
    "lii_current": "2023-12-31",
    "ours": "2023-12-31",
@@ -93,6 +99,12 @@
     "credited": 3
    }
   ],
+  "penal-code:archive": {
+   "last_version": "2024-12-23",
+   "captured": "20260416202709",
+   "via": "wayback",
+   "history_after_last": []
+  },
   "penal-code:listing": {
    "lii_current": "2024-12-23",
    "ours": "2024-12-23",
