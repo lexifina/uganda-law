@@ -1,0 +1,40 @@
+{
+ "parts": {
+  "20-batch2.json": {
+   "acts": [
+    "access-to-information",
+    "advocates",
+    "anti-corruption",
+    "anti-homosexuality",
+    "anti-money-laundering",
+    "anti-terrorism",
+    "arbitration-and-conciliation",
+    "bank-of-uganda",
+    "companies",
+    "computer-misuse",
+    "criminal-procedure-code",
+    "divorce",
+    "evidence",
+    "excise-duty",
+    "human-rights-enforcement",
+    "insolvency",
+    "interpretation",
+    "land-acquisition",
+    "limitation",
+    "local-governments",
+    "magistrates-courts",
+    "marriage",
+    "ngo",
+    "political-parties",
+    "presidential-elections",
+    "public-health",
+    "registration-of-titles",
+    "succession",
+    "traffic-and-road-safety",
+    "trial-on-indictments"
+   ],
+   "sha256": "c75d779290f64335bd04853364c98bd5669724a96a88374bfb85f24866dfba34"
+  }
+ },
+ "schema": 1
+}
