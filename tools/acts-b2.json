@@ -1,0 +1,220 @@
+{
+ "retrieved": "2026-10-30",
+ "acts": [
+  {
+   "work": "ord/1909/11",
+   "slug": "evidence",
+   "short": "Evidence Act",
+   "title": "Evidence Act",
+   "label": "Ordinance 11 of 1909"
+  },
+  {
+   "work": "ord/1950/13",
+   "slug": "criminal-procedure-code",
+   "short": "Criminal Procedure Code Act",
+   "title": "Criminal Procedure Code Act",
+   "label": "Ordinance 13 of 1950"
+  },
+  {
+   "work": "decree/1971/26",
+   "slug": "trial-on-indictments",
+   "short": "Trial on Indictments Act",
+   "title": "Trial on Indictments Act",
+   "label": "Decree 26 of 1971"
+  },
+  {
+   "work": "1998/10",
+   "slug": "magistrates-courts",
+   "short": "Magistrates Courts Act",
+   "title": "Magistrates Courts Act",
+   "label": "Act 10 of 1998"
+  },
+  {
+   "work": "2012/1",
+   "slug": "companies",
+   "short": "Companies Act",
+   "title": "Companies Act, 2012",
+   "label": "Act 1 of 2012"
+  },
+  {
+   "work": "2011/14",
+   "slug": "insolvency",
+   "short": "Insolvency Act",
+   "title": "Insolvency Act, 2011",
+   "label": "Act 14 of 2011"
+  },
+  {
+   "work": "ord/1922/22",
+   "slug": "registration-of-titles",
+   "short": "Registration of Titles Act",
+   "title": "Registration of Titles Act",
+   "label": "Ordinance 22 of 1922"
+  },
+  {
+   "work": "ord/1902/5",
+   "slug": "marriage",
+   "short": "Marriage Act",
+   "title": "Marriage Act",
+   "label": "Ordinance 5 of 1902"
+  },
+  {
+   "work": "ord/1904/15",
+   "slug": "divorce",
+   "short": "Divorce Act",
+   "title": "Divorce Act",
+   "label": "Ordinance 15 of 1904"
+  },
+  {
+   "work": "ord/1906/1",
+   "slug": "succession",
+   "short": "Succession Act",
+   "title": "Succession Act",
+   "label": "Ordinance 1 of 1906"
+  },
+  {
+   "work": "decree/1976/18",
+   "slug": "interpretation",
+   "short": "Interpretation Act",
+   "title": "Interpretation Act",
+   "label": "Decree 18 of 1976"
+  },
+  {
+   "work": "1970/22",
+   "slug": "advocates",
+   "short": "Advocates Act",
+   "title": "Advocates Act",
+   "label": "Act 22 of 1970"
+  },
+  {
+   "work": "2000/7",
+   "slug": "arbitration-and-conciliation",
+   "short": "Arbitration and Conciliation Act",
+   "title": "Arbitration and Conciliation Act",
+   "label": "Act 7 of 2000"
+  },
+  {
+   "work": "2009/6",
+   "slug": "anti-corruption",
+   "short": "Anti-Corruption Act",
+   "title": "Anti-Corruption Act, 2009",
+   "label": "Act 6 of 2009"
+  },
+  {
+   "work": "2013/12",
+   "slug": "anti-money-laundering",
+   "short": "Anti-Money Laundering Act",
+   "title": "Anti-Money Laundering Act, 2013",
+   "label": "Act 12 of 2013"
+  },
+  {
+   "work": "2011/2",
+   "slug": "computer-misuse",
+   "short": "Computer Misuse Act",
+   "title": "Computer Misuse Act, 2011",
+   "label": "Act 2 of 2011"
+  },
+  {
+   "work": "2005/6",
+   "slug": "access-to-information",
+   "short": "Access to Information Act",
+   "title": "Access to Information Act, 2005",
+   "label": "Act 6 of 2005"
+  },
+  {
+   "work": "2005/16",
+   "slug": "presidential-elections",
+   "short": "Presidential Elections Act",
+   "title": "Presidential Elections Act, 2005",
+   "label": "Act 16 of 2005"
+  },
+  {
+   "work": "1997/5",
+   "slug": "local-governments",
+   "short": "Local Governments Act",
+   "title": "Local Governments Act",
+   "label": "Act 5 of 1997"
+  },
+  {
+   "work": "ord/1958/46",
+   "slug": "limitation",
+   "short": "Limitation Act",
+   "title": "Limitation Act",
+   "label": "Ordinance 46 of 1958"
+  },
+  {
+   "work": "statute/1993/5",
+   "slug": "bank-of-uganda",
+   "short": "Bank of Uganda Act",
+   "title": "Bank of Uganda Act",
+   "label": "Statute 5 of 1993"
+  },
+  {
+   "work": "2002/14",
+   "slug": "anti-terrorism",
+   "short": "Anti-Terrorism Act",
+   "title": "Anti-Terrorism Act, 2002",
+   "label": "Act 14 of 2002"
+  },
+  {
+   "work": "1998/15",
+   "slug": "traffic-and-road-safety",
+   "short": "Traffic and Road Safety Act, 1998",
+   "title": "Traffic and Road Safety Act, 1998",
+   "label": "Act 15 of 1998"
+  },
+  {
+   "work": "1965/14",
+   "slug": "land-acquisition",
+   "short": "Land Acquisition Act",
+   "title": "Land Acquisition Act",
+   "label": "Act 14 of 1965"
+  },
+  {
+   "work": "ord/1935/13",
+   "slug": "public-health",
+   "short": "Public Health Act",
+   "title": "Public Health Act",
+   "label": "Ordinance 13 of 1935"
+  },
+  {
+   "work": "2005/18",
+   "slug": "political-parties",
+   "short": "Political Parties and Organisations Act",
+   "title": "Political Parties and Organisations Act, 2005",
+   "label": "Act 18 of 2005"
+  },
+  {
+   "work": "2019/18",
+   "slug": "human-rights-enforcement",
+   "short": "Human Rights (Enforcement) Act",
+   "title": "Human Rights (Enforcement) Act, 2019",
+   "label": "Act 18 of 2019"
+  },
+  {
+   "work": "2014/11",
+   "slug": "excise-duty",
+   "short": "Excise Duty Act",
+   "title": "Excise Duty Act, 2014",
+   "label": "Act 11 of 2014"
+  },
+  {
+   "work": "2016/5",
+   "slug": "ngo",
+   "short": "Non-Governmental Organisations Act",
+   "title": "Non-Governmental Organisations Act, 2016",
+   "label": "Act 5 of 2016"
+  },
+  {
+   "work": "2023/6",
+   "slug": "anti-homosexuality",
+   "short": "Anti-Homosexuality Act",
+   "title": "Anti-Homosexuality Act, 2023",
+   "label": "Act 6 of 2023"
+  }
+ ],
+ "decisions": [
+  "Batch 2 acts were chosen among the principal national Acts for which every point-in-time version ULII lists is available: Evidence Act, Criminal Procedure Code Act, Trial on Indictments Act, Magistrates Courts Act, Companies Act, 2012, Insolvency Act, 2011, Registration of Titles Act, Marriage Act, Divorce Act, Succession Act, Interpretation Act, Advocates Act, Arbitration and Conciliation Act, Anti-Corruption Act, 2009, Anti-Money Laundering Act, 2013, Computer Misuse Act, 2011, Access to Information Act, 2005, Presidential Elections Act, 2005, Local Governments Act, Limitation Act, Bank of Uganda Act, Anti-Terrorism Act, 2002, Traffic and Road Safety Act, 1998, Land Acquisition Act, Public Health Act, Political Parties and Organisations Act, 2005, Human Rights (Enforcement) Act, 2019, Excise Duty Act, 2014, Non-Governmental Organisations Act, 2016, Anti-Homosexuality Act, 2023.",
+  "Batch 2 left out, because a version ULII lists was not available: the Tax Appeals Tribunals Act (2000-12-31, 2021-07-01), the Public Procurement and Disposal of Public Assets Act 2003 (2003-01-17, 2006-02-10, 2014-03-03), the Parliamentary Elections Act 2005 (2023-12-31), the Pensions Act (2000-12-31), the Companies Act of 1958 (2000-12-31) and the Children Act (2000-12-31, 2006-06-08).",
+  "Most batch 2 histories start with the Revised Edition of the Laws of Uganda 2000 (expression 2000-12-31), the oldest version ULII publishes for those Acts, and end with the Revised Laws 2023 (2023-12-31); both are consolidations, so wording they changed is committed as the publisher's unless ULII's own note names an Act."
+ ]
+}

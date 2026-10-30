@@ -1,0 +1,11 @@
+{
+  "path": "ug",
+  "code": "UG",
+  "name": "Uganda",
+  "level": "country",
+  "repo": "https://github.com/lexifina/uganda-law",
+  "build": "built: Constitution of the Republic of Uganda (6 versions, 2000-12-31 to 2023-12-31); Penal Code Act (8 versions, 2000-12-31 to 2024-12-23)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 2
+}

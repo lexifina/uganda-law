@@ -1,0 +1,855 @@
+{
+ "country": "UG",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Uganda",
+   "url": "https://ulii.org/akn/ug/act/statute/1995/constitution",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 305,
+     "source_url": "https://web.archive.org/web/20250714124619id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2000-12-31",
+     "sha256": "6b9754bfb7023b334d8ff3cf85f1d175c3fa1846b5d5745d4e68efadf9010e1d"
+    },
+    {
+     "from": "2005-09-30",
+     "units": 319,
+     "source_url": "https://web.archive.org/web/20250708053429id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2005-09-30",
+     "sha256": "71ad57ba851b3fda267ffb20df67ae34804d7dabc42f35c347e5542049a0883a"
+    },
+    {
+     "from": "2005-12-30",
+     "units": 333,
+     "source_url": "https://web.archive.org/web/20250708041410id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2005-12-30",
+     "sha256": "bb14a7a710ed44f2c5cd12cc94529dd5cfa3c574b1a4b947d18d5795e3304466"
+    },
+    {
+     "from": "2015-08-24",
+     "units": 334,
+     "source_url": "https://web.archive.org/web/20250714123751id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2015-08-24",
+     "sha256": "43edfee677196aa5cab80f56795c7a5be1efc315913b6e55f75c4ce0e867c8f6"
+    },
+    {
+     "from": "2018-01-05",
+     "units": 335,
+     "source_url": "https://web.archive.org/web/20250721135411id_/https://ulii.org/akn/ug/act/statute/1995/constitution/eng@2018-01-05",
+     "sha256": "99dc00ebbd78732ae97653653b0d647de03eb6bc1c74ede3085bb94ded9b1cef"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 314,
+     "source_url": "https://web.archive.org/web/20260411084702id_/https://ulii.org/en/akn/ug/act/statute/1995/constitution/eng@2023-12-31",
+     "sha256": "bd674fab58b54c894c863bca852a85aafdc698407eebf13ed9607ef5381d69da"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "Penal Code Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1950/12",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 396,
+     "source_url": "https://web.archive.org/web/20250613044334id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2000-12-31",
+     "sha256": "adaeac3999b94abb335fe6e6dfb232b4248a9e1c53ddaae5af78233faea8d296"
+    },
+    {
+     "from": "2002-06-07",
+     "units": 396,
+     "source_url": "https://web.archive.org/web/20250613035624id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2002-06-07",
+     "sha256": "1e66f09180b81b4344090e4ed0fea64df1e1e436da0bf08b46dcce37454cc806"
+    },
+    {
+     "from": "2007-08-17",
+     "units": 398,
+     "source_url": "https://web.archive.org/web/20250622024244id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2007-08-17",
+     "sha256": "c5c33f5fc4abf9dd602980882207f337b45e20c2cc9f4a3023d430f178ff2dac"
+    },
+    {
+     "from": "2009-08-25",
+     "units": 398,
+     "source_url": "https://web.archive.org/web/20250519143746id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2009-08-25",
+     "sha256": "0410a6613c65138815f9d64cd3ac44f302d9ff91df3982679a1973ab994eeaae"
+    },
+    {
+     "from": "2010-09-03",
+     "units": 398,
+     "source_url": "https://web.archive.org/web/20250809092414id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2010-09-03",
+     "sha256": "973d26af3e8799d595b8566fd06fcaee077dde94f905224d8fcabcb7e020717e"
+    },
+    {
+     "from": "2014-05-09",
+     "units": 398,
+     "source_url": "https://web.archive.org/web/20250921112223id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2014-05-09",
+     "sha256": "b14af4601b74390391604bf1ccf1aa21c2a638a2c0525b8e47e8620ac8951dc7"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 371,
+     "source_url": "https://web.archive.org/web/20250905142704id_/https://ulii.org/akn/ug/act/ord/1950/12/eng@2023-12-31",
+     "sha256": "2249e0e04b3c9a594831a5fe259944694e38c03b2b67e161bf20ebaa3fed1726"
+    },
+    {
+     "from": "2024-12-23",
+     "units": 371,
+     "source_url": "https://web.archive.org/web/20260416202709id_/https://ulii.org/en/akn/ug/act/ord/1950/12/eng@2024-12-23",
+     "sha256": "bc2c57d5b269ca5f1b1316455be81124bb0fbea65240249b0b00ec490322538d"
+    }
+   ]
+  },
+  {
+   "slug": "evidence",
+   "short": "Evidence Act",
+   "title": "Evidence Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1909/11",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 167,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1909/11/eng@2000-12-31",
+     "sha256": "cdb592e770f1f09ec6e58775368bd70d5176b8656052181eb1bed3f3da72cf03"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 169,
+     "source_url": "https://ulii.org/en/akn/ug/act/ord/1909/11/eng@2023-12-31",
+     "sha256": "d149b0c7b097917f1ec718b01930e65fd86d6aa339f1279e38865d9fda53ab1d"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure-code",
+   "short": "Criminal Procedure Code Act",
+   "title": "Criminal Procedure Code Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1950/13",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 55,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1950/13/eng@2000-12-31",
+     "sha256": "26dbc140f4514fbae92a09787aed9af9265187bfa9cc822b93fa0e54b1f0dd42"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 57,
+     "source_url": "https://ulii.org/en/akn/ug/act/ord/1950/13/eng@2023-12-31",
+     "sha256": "b82d2113f0f347ddc1c67fd5b3025e6b791288ca7116534903be41dee60581d2"
+    }
+   ]
+  },
+  {
+   "slug": "trial-on-indictments",
+   "short": "Trial on Indictments Act",
+   "title": "Trial on Indictments Act",
+   "url": "https://ulii.org/akn/ug/act/decree/1971/26",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 145,
+     "source_url": "https://ulii.org/akn/ug/act/decree/1971/26/eng@2000-12-31",
+     "sha256": "04e35f00fb4d4601249a1a49205c2e02d750a8198fdcff3d57e50f035477c4bd"
+    },
+    {
+     "from": "2008-12-05",
+     "units": 145,
+     "source_url": "https://ulii.org/akn/ug/act/decree/1971/26/eng@2008-12-05",
+     "sha256": "9dc13f88485961c98f604af34b24b8983bcc187e28decd827e784f81b958b70c"
+    },
+    {
+     "from": "2020-02-14",
+     "units": 145,
+     "source_url": "https://ulii.org/akn/ug/act/decree/1971/26/eng@2020-02-14",
+     "sha256": "4b6f35e15766c6ca86362296114103a13d9d1d029778120fab243e6fba05bd36"
+    },
+    {
+     "from": "2021-11-05",
+     "units": 145,
+     "source_url": "https://ulii.org/akn/ug/act/decree/1971/26/eng@2021-11-05",
+     "sha256": "5a1087ac0943f51257a43c6376b6ac1231e2079e68ccfb343526277b7bb6b127"
+    },
+    {
+     "from": "2023-07-28",
+     "units": 145,
+     "source_url": "https://ulii.org/akn/ug/act/decree/1971/26/eng@2023-07-28",
+     "sha256": "6839d8b5d6f974f4ce83c60d004ad19a7b8b5ee47219f184a3ca540b94976c19"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 146,
+     "source_url": "https://ulii.org/en/akn/ug/act/decree/1971/26/eng@2023-12-31",
+     "sha256": "f15eac734fdb0331a888b9106c4509948212fe293cbb595030a91872bb9d43c0"
+    }
+   ]
+  },
+  {
+   "slug": "magistrates-courts",
+   "short": "Magistrates Courts Act",
+   "title": "Magistrates Courts Act",
+   "url": "https://ulii.org/akn/ug/act/1998/10",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 239,
+     "source_url": "https://ulii.org/akn/ug/act/1998/10/eng@2000-12-31",
+     "sha256": "f4f0b865c3e04efe56b2f18316bf93e1d3595fb7b29edabf673e4e9d9ac60c78"
+    },
+    {
+     "from": "2007-08-17",
+     "units": 239,
+     "source_url": "https://ulii.org/akn/ug/act/1998/10/eng@2007-08-17",
+     "sha256": "ba4409da847686af834ce146e91aaa690d21a7f1afe9a84d190637b6b45e3e78"
+    },
+    {
+     "from": "2020-02-14",
+     "units": 239,
+     "source_url": "https://ulii.org/akn/ug/act/1998/10/eng@2020-02-14",
+     "sha256": "7316bb4493a69589e735c0399cab5b54737f945abefec1dd2213ea8cbde7bf53"
+    },
+    {
+     "from": "2023-07-28",
+     "units": 239,
+     "source_url": "https://ulii.org/akn/ug/act/1998/10/eng@2023-07-28",
+     "sha256": "5733d8d07485232663f1e482bd09cd9f11d3e0869572fbe1269cca0ecfab8c96"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 236,
+     "source_url": "https://ulii.org/en/akn/ug/act/1998/10/eng@2023-12-31",
+     "sha256": "c57f9490503c996091831e9b818c4b41b2e9c2eec8be61ee64e7dabb69c05aa4"
+    }
+   ]
+  },
+  {
+   "slug": "companies",
+   "short": "Companies Act",
+   "title": "Companies Act",
+   "url": "https://ulii.org/akn/ug/act/2012/1",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 338,
+     "source_url": "https://ulii.org/akn/ug/act/2012/1/eng@2012-09-18",
+     "sha256": "0d610aac6b7285e517680b0a04b5f0da992012ab8f57de6ef89e0d03c8a03985"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 338,
+     "source_url": "https://ulii.org/akn/ug/act/2012/1/eng@2015-07-01",
+     "sha256": "ccc7979346f651cf04522f2c678f9cf0192502f690bcbbe8d7b3b0edc9d834c1"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 303,
+     "source_url": "https://ulii.org/en/akn/ug/act/2012/1/eng@2023-12-31",
+     "sha256": "52e9fbd1c8bf30b169729d304bdde49e3321cbae4d259f91eca9c7e7ce83beef"
+    }
+   ]
+  },
+  {
+   "slug": "insolvency",
+   "short": "Insolvency Act",
+   "title": "Insolvency Act",
+   "url": "https://ulii.org/akn/ug/act/2011/14",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 269,
+     "source_url": "https://ulii.org/akn/ug/act/2011/14/eng@2011-09-23",
+     "sha256": "02569f2a3dd5d21292022d6ee7e3bbee74b911c7eaaec52d0e70efe0b353a115"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 259,
+     "source_url": "https://ulii.org/en/akn/ug/act/2011/14/eng@2023-12-31",
+     "sha256": "9fc8a80756420c8a6ed607603efbe4026a5738984eb66e00a3f9d138aaf4ffd9"
+    }
+   ]
+  },
+  {
+   "slug": "registration-of-titles",
+   "short": "Registration of Titles Act",
+   "title": "Registration of Titles Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1922/22",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 226,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1922/22/eng@2000-12-31",
+     "sha256": "61ae1012fb98438981f304b31d187e6c19472502371ebd58daf188964abd0e48"
+    },
+    {
+     "from": "2011-09-02",
+     "units": 226,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1922/22/eng@2011-09-02",
+     "sha256": "42cbf0ea89cf1777af3492ed65a2c68458a5470d52bcbb3867323b043e35b544"
+    },
+    {
+     "from": "2023-07-28",
+     "units": 227,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1922/22/eng@2023-07-28",
+     "sha256": "29477c19777204713ec34cc537b748a7f2043d300e0bcb2fc9fb4e197b5b432b"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 207,
+     "source_url": "https://ulii.org/en/akn/ug/act/ord/1922/22/eng@2023-12-31",
+     "sha256": "cf8802c4f99b17636b005d5649bf17bf09494833d2d28552c7e2bff40665fe73"
+    }
+   ]
+  },
+  {
+   "slug": "marriage",
+   "short": "Marriage Act",
+   "title": "Marriage Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1902/5",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 54,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1902/5/eng@2000-12-31",
+     "sha256": "a6722d4aae4bd7a8fe309c506447688dc7c0cdb09ace3f84125787957a1594f5"
+    },
+    {
+     "from": "2005-06-17",
+     "units": 54,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1902/5/eng@2005-06-17",
+     "sha256": "a2cf74bf1575677ee0eb4398f6fc58a69bbf256072e1b3495044b71a720923d9"
+    },
+    {
+     "from": "2014-03-10",
+     "units": 54,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1902/5/eng@2014-03-10",
+     "sha256": "7f49d7ce3c4adb336538f1cc01e539ae1402b22c0372016d65cd97dfad1f0b4d"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 52,
+     "source_url": "https://ulii.org/en/akn/ug/act/ord/1902/5/eng@2023-12-31",
+     "sha256": "595ecfe4a7cb3d3208ed4312f0d4d91859222b93999e735c3961abd0e35fedf2"
+    }
+   ]
+  },
+  {
+   "slug": "divorce",
+   "short": "Divorce Act",
+   "title": "Divorce Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1904/15",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 43,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1904/15/eng@2000-12-31",
+     "sha256": "3d2a20e1265c06343f7800b55b18b28b9487dbc20cc3a069c2e26ca6ceb1b830"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 42,
+     "source_url": "https://ulii.org/en/akn/ug/act/ord/1904/15/eng@2023-12-31",
+     "sha256": "61ab5bc5d26516ec7062b7a20f16af776f8422a0cb7dcdeef7e0292bea2a4751"
+    }
+   ]
+  },
+  {
+   "slug": "succession",
+   "short": "Succession Act",
+   "title": "Succession Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1906/1",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 353,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1906/1/eng@2000-12-31",
+     "sha256": "8ec3c4ecc2aa2cfea7c748e8b6862871b84d4fa1d7833c1bc243783161c623b6"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 342,
+     "source_url": "https://ulii.org/en/akn/ug/act/ord/1906/1/eng@2023-12-31",
+     "sha256": "ac32955f706ed0c34013b34184e2a73b4a209b812bb4de2f53ca9fffa8d5dfcc"
+    }
+   ]
+  },
+  {
+   "slug": "interpretation",
+   "short": "Interpretation Act",
+   "title": "Interpretation Act",
+   "url": "https://ulii.org/akn/ug/act/decree/1976/18",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 49,
+     "source_url": "https://ulii.org/akn/ug/act/decree/1976/18/eng@2000-12-31",
+     "sha256": "b8d5e41d71a3a94261843f5495f3a4cb44d07969d66e6e2569d0977315f9638d"
+    },
+    {
+     "from": "2015-03-06",
+     "units": 49,
+     "source_url": "https://ulii.org/akn/ug/act/decree/1976/18/eng@2015-03-06",
+     "sha256": "bf0fb95cb714aa90bba2570a6e8cc9423347497ae1bda4f58cd3e0099f657fd9"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 51,
+     "source_url": "https://ulii.org/en/akn/ug/act/decree/1976/18/eng@2023-12-31",
+     "sha256": "536449b836237c648d5eab8ec4315968b462ae6b3bafa69554e65c7566bc0933"
+    }
+   ]
+  },
+  {
+   "slug": "advocates",
+   "short": "Advocates Act",
+   "title": "Advocates Act",
+   "url": "https://ulii.org/akn/ug/act/1970/22",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 87,
+     "source_url": "https://ulii.org/akn/ug/act/1970/22/eng@2000-12-31",
+     "sha256": "29a5b8d165d5df2be65aaac5dc4101735e9127c203456428bda788a189e12a39"
+    },
+    {
+     "from": "2002-12-10",
+     "units": 96,
+     "source_url": "https://ulii.org/akn/ug/act/1970/22/eng@2002-12-10",
+     "sha256": "752d0a47dbf7e161397545fc3e38039a0f48a47d04ebbc4e8a9b21172af57dd7"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 93,
+     "source_url": "https://ulii.org/en/akn/ug/act/1970/22/eng@2023-12-31",
+     "sha256": "2890d145228e6e3416c98a2c8c09ddba3099cff2b276bf199174e7ae03f0b14a"
+    }
+   ]
+  },
+  {
+   "slug": "arbitration-and-conciliation",
+   "short": "Arbitration and Conciliation Act",
+   "title": "Arbitration and Conciliation Act",
+   "url": "https://ulii.org/akn/ug/act/2000/7",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 77,
+     "source_url": "https://ulii.org/akn/ug/act/2000/7/eng@2000-12-31",
+     "sha256": "a29a269cbdbe9ef1bd466b1faf46a20c0c6888851defd3994df7d5c3e9414ce4"
+    },
+    {
+     "from": "2008-06-27",
+     "units": 90,
+     "source_url": "https://ulii.org/akn/ug/act/2000/7/eng@2008-06-27",
+     "sha256": "1ac6fc573abb14b3d5c7d4bd34dae652b566e71f506dcc0b4bc4deede6510004"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 89,
+     "source_url": "https://ulii.org/akn/ug/act/2000/7/eng@2023-12-31",
+     "sha256": "de26c7810cb4ea8df0179ccfb7d1b02f6813fcda528980aee40687c88d75cf46"
+    },
+    {
+     "from": "2024-12-23",
+     "units": 89,
+     "source_url": "https://ulii.org/en/akn/ug/act/2000/7/eng@2024-12-23",
+     "sha256": "e8f5e95739d575ddcca79964fa00e272aa60f5db505793701a79be062328bc82"
+    }
+   ]
+  },
+  {
+   "slug": "anti-corruption",
+   "short": "Anti-Corruption Act",
+   "title": "Anti-Corruption Act",
+   "url": "https://ulii.org/akn/ug/act/2009/6",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 72,
+     "source_url": "https://ulii.org/akn/ug/act/2009/6/eng@2009-08-25",
+     "sha256": "0bf06e7f49d1ea6989266ea84c69050cc8c113695baf2d2982880551e6e12bd8"
+    },
+    {
+     "from": "2015-11-11",
+     "units": 81,
+     "source_url": "https://ulii.org/akn/ug/act/2009/6/eng@2015-11-11",
+     "sha256": "89c029b294cc2e8d833f31f40de179dd0006aabed0d59b38e1a7f98e1581d77c"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 77,
+     "source_url": "https://ulii.org/en/akn/ug/act/2009/6/eng@2023-12-31",
+     "sha256": "49085ce071e51e1ce539761766283d24440f2b701ea5c9820bf34429672b1b46"
+    }
+   ]
+  },
+  {
+   "slug": "anti-money-laundering",
+   "short": "Anti-Money Laundering Act",
+   "title": "Anti-Money Laundering Act, 2013",
+   "url": "https://ulii.org/akn/ug/act/2013/12",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 144,
+     "source_url": "https://ulii.org/akn/ug/act/2013/12/eng@2013-11-01",
+     "sha256": "65aef8df817a4d117fdc3b0fd4351ea1ff7b7dc5f0e34f77c28629c64104df5b"
+    },
+    {
+     "from": "2017-05-26",
+     "units": 148,
+     "source_url": "https://ulii.org/akn/ug/act/2013/12/eng@2017-05-26",
+     "sha256": "18c7512040709b594b54767cfc6ef6d8274a7a480b4b1dbf9148ba73a49d3fda"
+    },
+    {
+     "from": "2020-11-27",
+     "units": 148,
+     "source_url": "https://ulii.org/en/akn/ug/act/2013/12/eng@2020-11-27",
+     "sha256": "3abf2ae88fb68b1a31ad808a1df4a40497eb3ff2e1c252dadccae089a8486bc0"
+    }
+   ]
+  },
+  {
+   "slug": "computer-misuse",
+   "short": "Computer Misuse Act",
+   "title": "Computer Misuse Act",
+   "url": "https://ulii.org/akn/ug/act/2011/2",
+   "versions": [
+    {
+     "from": "2011-04-15",
+     "units": 34,
+     "source_url": "https://ulii.org/akn/ug/act/2011/2/eng@2011-02-14",
+     "sha256": "fd65e253d66460e6ec28f13d42c528b79a77a0c02435d19a945a65dfbe899f71"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 37,
+     "source_url": "https://ulii.org/en/akn/ug/act/2011/2/eng@2023-12-31",
+     "sha256": "c268ff83a7456c0761d745b41ea5bcc967a0577030d70c5d9e070fee3f071216"
+    }
+   ]
+  },
+  {
+   "slug": "access-to-information",
+   "short": "Access to Information Act",
+   "title": "Access to Information Act",
+   "url": "https://ulii.org/akn/ug/act/2005/6",
+   "versions": [
+    {
+     "from": "2006-04-20",
+     "units": 50,
+     "source_url": "https://ulii.org/akn/ug/act/2005/6/eng@2005-07-19",
+     "sha256": "71f22d23e52fdead77c6a98561ed0c6f06959c192ed0756c432bfadce32f498f"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 49,
+     "source_url": "https://ulii.org/en/akn/ug/act/2005/6/eng@2023-12-31",
+     "sha256": "1c5d2daaa9d3e18094a6a8139550f1afa652a313a83ea2626a453730d53b95ec"
+    }
+   ]
+  },
+  {
+   "slug": "presidential-elections",
+   "short": "Presidential Elections Act",
+   "title": "Presidential Elections Act",
+   "url": "https://ulii.org/akn/ug/act/2005/16",
+   "versions": [
+    {
+     "from": "2005-11-21",
+     "units": 98,
+     "source_url": "https://ulii.org/akn/ug/act/2005/16/eng@2005-11-21",
+     "sha256": "d1431ce7eb3fe8f12184cfa4d021696502e8935105294d061785782a94d02955"
+    },
+    {
+     "from": "2010-06-25",
+     "units": 100,
+     "source_url": "https://ulii.org/akn/ug/act/2005/16/eng@2010-06-25",
+     "sha256": "d9873048ebb53678299b9e66653da9fdf9673d5a7a15aeaad0b4b085bd41a78f"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 100,
+     "source_url": "https://ulii.org/akn/ug/act/2005/16/eng@2015-10-01",
+     "sha256": "ab7fb8c2dd73a223eb29dd1290d95e5e661352b8ed28753c1bc40b84134434d6"
+    },
+    {
+     "from": "2020-07-27",
+     "units": 101,
+     "source_url": "https://ulii.org/akn/ug/act/2005/16/eng@2020-07-27",
+     "sha256": "18a71874e9c288ce40ff9088b4a13f489f54effdcb0c200d457ae1ded466fcae"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 101,
+     "source_url": "https://ulii.org/en/akn/ug/act/2005/16/eng@2023-12-31",
+     "sha256": "092732b5890f874830c68c30f505fd5a89d4ed559e2f5c0b05b09631ff396317"
+    }
+   ]
+  },
+  {
+   "slug": "local-governments",
+   "short": "Local Governments Act",
+   "title": "Local Governments Act",
+   "url": "https://ulii.org/akn/ug/act/1997/5",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 255,
+     "source_url": "https://ulii.org/akn/ug/act/1997/5/eng@2000-12-31",
+     "sha256": "3632c2c599786ebce97cbc28f1298656ded4734c62c0a55c34e7bd0b0c38a4d3"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 199,
+     "source_url": "https://ulii.org/en/akn/ug/act/1997/5/eng@2023-12-31",
+     "sha256": "db01ef2ec222bc0ab8705953d5f81a886b889d688a612f44217687c31d21da1a"
+    }
+   ]
+  },
+  {
+   "slug": "limitation",
+   "short": "Limitation Act",
+   "title": "Limitation Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1958/46",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 33,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1958/46/eng@2000-12-31",
+     "sha256": "919a5fd11788b1e360280e6b4d9cd3fc0c38bd10bec11e99e303b00cfeae6dc1"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 33,
+     "source_url": "https://ulii.org/en/akn/ug/act/ord/1958/46/eng@2023-12-31",
+     "sha256": "74234bbdea47975258189ee5029d44de846f02559436f9b8d0aea7d1ae937e29"
+    }
+   ]
+  },
+  {
+   "slug": "bank-of-uganda",
+   "short": "Bank of Uganda Act",
+   "title": "Bank of Uganda Act",
+   "url": "https://ulii.org/akn/ug/act/statute/1993/5",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 54,
+     "source_url": "https://ulii.org/akn/ug/act/statute/1993/5/eng@2000-12-31",
+     "sha256": "7c98ed8454551bff50e85dc832329b6de0d26e591c4e0928003e20fdcf3190d4"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 56,
+     "source_url": "https://ulii.org/en/akn/ug/act/statute/1993/5/eng@2023-12-31",
+     "sha256": "67354f87bdcd75eb35c0ef2eaaaef41fa321317570d5c0781380e8d6c8fe5804"
+    }
+   ]
+  },
+  {
+   "slug": "anti-terrorism",
+   "short": "Anti-Terrorism Act",
+   "title": "Anti-Terrorism Act, 2002",
+   "url": "https://ulii.org/akn/ug/act/2002/14",
+   "versions": [
+    {
+     "from": "2002-06-07",
+     "units": 49,
+     "source_url": "https://ulii.org/en/akn/ug/act/2002/14/eng@2002-06-07",
+     "sha256": "cda3013643cef18b9ac3bd7ac3a6307468202808aa19fe9e2246847fc8917ea9"
+    },
+    {
+     "from": "2021-11-05",
+     "units": 49,
+     "source_url": "https://ulii.org/akn/ug/act/2002/14/eng@2021-11-05",
+     "sha256": "07e866fc06530278ba14fbab7286a4e5dd11ea1a899f0e1748ae53302a4e8d51"
+    },
+    {
+     "from": "2024-12-23",
+     "units": 49,
+     "source_url": "https://ulii.org/en/akn/ug/act/2002/14/eng@2024-12-23",
+     "sha256": "c68ab11334e401b9846fba1f557752bfd501508c38f1833997fb3ee2c17c5f81"
+    }
+   ]
+  },
+  {
+   "slug": "traffic-and-road-safety",
+   "short": "Traffic and Road Safety Act, 1998",
+   "title": "Traffic and Road Safety Act, 1998",
+   "url": "https://ulii.org/akn/ug/act/1998/15",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 183,
+     "source_url": "https://ulii.org/akn/ug/act/1998/15/eng@2000-12-31",
+     "sha256": "12ff5cb6cf6d0c012bf10921e93ce6580023a678fb0c0045e6f10e27272628b5"
+    },
+    {
+     "from": "2006-12-08",
+     "units": 183,
+     "source_url": "https://ulii.org/akn/ug/act/1998/15/eng@2006-12-08",
+     "sha256": "c2b260f9bb4d78603b91109ac98aedc83072f73fb4b7882c6a2bab70e02c2ee3"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 183,
+     "source_url": "https://ulii.org/akn/ug/act/1998/15/eng@2013-07-01",
+     "sha256": "ca505ab0270da920322cdb42284d7075a4f0cfe9a683fbeb6945c716c5e558d2"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 183,
+     "source_url": "https://ulii.org/akn/ug/act/1998/15/eng@2016-07-01",
+     "sha256": "90de7cdc2bebb572090571e16160514f02627a5f195b005d9905f0d0d21edffc"
+    },
+    {
+     "from": "2019-09-25",
+     "units": 183,
+     "source_url": "https://ulii.org/akn/ug/act/1998/15/eng@2019-09-25",
+     "sha256": "48269d48a70c7e3ac316cb6ad618b97b7eeff1060e22424a7617c4b80faf0bd9"
+    },
+    {
+     "from": "2020-05-22",
+     "units": 198,
+     "source_url": "https://ulii.org/en/akn/ug/act/1998/15/eng@2020-05-22",
+     "sha256": "d8636a1928abc1b090d6548b7e53e68df4c3785a5510cc4dc2ef4d6fb507fbb1"
+    }
+   ]
+  },
+  {
+   "slug": "land-acquisition",
+   "short": "Land Acquisition Act",
+   "title": "Land Acquisition Act",
+   "url": "https://ulii.org/akn/ug/act/1965/14",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 21,
+     "source_url": "https://ulii.org/akn/ug/act/1965/14/eng@2000-12-31",
+     "sha256": "1f11edddb1c32439cbb98438e1038dc996c9f1f70a827254105a11662b267d54"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 23,
+     "source_url": "https://ulii.org/en/akn/ug/act/1965/14/eng@2023-12-31",
+     "sha256": "f073b2edd5a03c0775de7cc5d7bb83e8152f4ddfa9a98f4c7ca8862d748273ee"
+    }
+   ]
+  },
+  {
+   "slug": "public-health",
+   "short": "Public Health Act",
+   "title": "Public Health Act",
+   "url": "https://ulii.org/akn/ug/act/ord/1935/13",
+   "versions": [
+    {
+     "from": "2000-12-31",
+     "units": 142,
+     "source_url": "https://ulii.org/akn/ug/act/ord/1935/13/eng@2000-12-31",
+     "sha256": "f29765077306dd4126f625bcd014e7a1197d9305ac1c1d6f4dc69c881f39b164"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 104,
+     "source_url": "https://ulii.org/en/akn/ug/act/ord/1935/13/eng@2023-12-31",
+     "sha256": "ff66aa33abf1a17394674ebc333bdeed3555c5553602106e534d6f040f19b7ff"
+    }
+   ]
+  },
+  {
+   "slug": "political-parties",
+   "short": "Political Parties and Organisations Act",
+   "title": "Political Parties and Organisations Act",
+   "url": "https://ulii.org/akn/ug/act/2005/18",
+   "versions": [
+    {
+     "from": "2023-12-31",
+     "units": 34,
+     "source_url": "https://ulii.org/en/akn/ug/act/2005/18/eng@2023-12-31",
+     "sha256": "cc7fec15952ca82ee4fdf94875f32caa91a4482aae6ff7e3164220b2713d49cd"
+    }
+   ]
+  },
+  {
+   "slug": "human-rights-enforcement",
+   "short": "Human Rights (Enforcement) Act",
+   "title": "Human Rights (Enforcement) Act",
+   "url": "https://ulii.org/akn/ug/act/2019/18",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 21,
+     "source_url": "https://ulii.org/akn/ug/act/2019/18/eng@2019-11-15",
+     "sha256": "c3f3f61824dd5057e2971165219c58fc15eed4a042f18e0c83158b6e059d6eb5"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 20,
+     "source_url": "https://ulii.org/en/akn/ug/act/2019/18/eng@2023-12-31",
+     "sha256": "4e34e0883679b9fff3fc54fa1fa7c559d155a1f4d7e19face10445e18a74333b"
+    }
+   ]
+  },
+  {
+   "slug": "excise-duty",
+   "short": "Excise Duty Act",
+   "title": "Excise Duty Act",
+   "url": "https://ulii.org/akn/ug/act/2014/11",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 22,
+     "source_url": "https://ulii.org/akn/ug/act/2014/11/eng@2014-10-24",
+     "sha256": "441b2270bfffe6dbedfa9dd0236a448676cde71faa4e4af9a0948327f42d6e4e"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 22,
+     "source_url": "https://ulii.org/en/akn/ug/act/2014/11/eng@2023-12-31",
+     "sha256": "dd305aa18d362388ade658831a82204c360b750b83c505840b5b00bae2032a71"
+    }
+   ]
+  },
+  {
+   "slug": "ngo",
+   "short": "Non-Governmental Organisations Act",
+   "title": "Non-Governmental Organisations Act",
+   "url": "https://ulii.org/akn/ug/act/2016/5",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 68,
+     "source_url": "https://ulii.org/akn/ug/act/2016/5/eng@2016-03-03",
+     "sha256": "f22257c7d28f506b872da5dbf7b754c14a3c44c6bcd965e118acac86ccb92af8"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 57,
+     "source_url": "https://ulii.org/en/akn/ug/act/2016/5/eng@2023-12-31",
+     "sha256": "ca014907cec5282d6eb47722592f9b82148956cd596d06ec0456935fc1162a76"
+    }
+   ]
+  },
+  {
+   "slug": "anti-homosexuality",
+   "short": "Anti-Homosexuality Act",
+   "title": "Anti-Homosexuality Act, 2023",
+   "url": "https://ulii.org/akn/ug/act/2023/6",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 19,
+     "source_url": "https://ulii.org/en/akn/ug/act/2023/6/eng@2023-05-30",
+     "sha256": "3c213b57f623e5ebc699b8bb47d93e23dd67baf72fa8845f0beb7a9859544d01"
+    },
+    {
+     "from": "2023-12-31",
+     "units": 19,
+     "source_url": "https://ulii.org/en/akn/ug/act/2023/6/eng@2023-12-31",
+     "sha256": "3bbe5f8fc4dfa1b56c97e5a79cb247e961df6e16d98fa5ee5cf801d6ef8430e9"
+    }
+   ]
+  }
+ ]
+}
