@@ -1,108 +1,87 @@
 # Uganda: law history in git
 
+The law of Uganda as a git history: one file per section or article, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a provision; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Uganda's national law, which global-law reads at `uganda/national/acts/`.
 
-The law of Uganda as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to a provision; `tools/on.py` gives the text in force on any day.
+**What is in it now:** the Constitution and 31 other Acts from ULII, among them the Penal Code, the Evidence Act, the Companies Act and the Succession Act, with 99 versions from 31 December 2000 to 23 December 2024. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its versions; [`data/laws.csv`](data/laws.csv) lists the 68 laws the history names (Acts, statutory instruments and a General Notice), with their dates.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ug/`. Every version is a dated point-in-time version published by [ULII](https://ulii.org) on the Laws.Africa Peachjam platform.
+Each act is a folder named after its short title, with one file per section, article or schedule (articles too are named `sec-<number>.md`), plus `long-title.md` and a `README.md` listing its provisions and their changes (`constitution/sec-102.md` is Article 102 of the Constitution, on who may be elected President).
 
-**What is in it now**
+The text is in English, as ULII publishes it; its editorial notes (kept only where a provision has no other text) and the Part and Chapter headings are left out.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | [Constitution of the Republic of Uganda](https://ulii.org/akn/ug/act/statute/1995/constitution) | 6 | 2000-12-31 to 2023-12-31 |
-| `penal-code/` | [Penal Code Act](https://ulii.org/akn/ug/act/ord/1950/12) | 8 | 2000-12-31 to 2024-12-23 |
-
-**Constitution of the Republic of Uganda**
-
-| In force | Author |
-| --- | --- |
-| 2000-12-31 | publisher (ULII): oldest version available |
-| 2005-09-30 | Act 11 of 2005 |
-| 2005-12-30 | Act 21 of 2005 |
-| 2015-08-24 | Act 12 of 2015 |
-| 2018-01-05 | Act 1 of 2018 |
-| 2023-12-31 | publisher (ULII): 255 provision(s) unexplained |
-
-**Penal Code Act**
-
-| In force | Author |
-| --- | --- |
-| 2000-12-31 | publisher (ULII): oldest version available |
-| 2002-06-07 | Act 14 of 2002 |
-| 2007-08-17 | Act 8 of 2007 |
-| 2009-08-25 | Act 6 of 2009 |
-| 2010-09-03 | Act 17 of 2010 |
-| 2014-05-09 | Act 1 of 2014 |
-| 2023-12-31 | publisher (ULII): 389 provision(s) unexplained |
-| 2024-12-23 | General Notice 2917 of 2024 |
-
-Each folder's `README.md` lists every provision, how often it changed and when.
-
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did sec-005 say on 2000-12-31? | `python tools/on.py 2000-12-31 constitution sec-005` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2000-12-31T23:59:59Z" main -- constitution/sec-005.md):constitution/sec-005.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2000-12-31T23:59:59Z" main -- constitution/sec-005.md; git show "$($r):constitution/sec-005.md"` |
-| Which law wrote each line? | `git blame constitution/sec-005.md` |
-| Every change, word by word | `git log -p --word-diff constitution/sec-005.md` |
-| Every law in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything one law changed | `git show law/<key>` (tags `law/<key>` mark each law's commit) |
-| The whole act on a date | `python tools/on.py 2000-12-31 constitution` |
-| Which law gave a provision its wording on a date | `python tools/on.py --law 2000-12-31 constitution sec-005` |
+| Every change to Article 102 of the Constitution | `git log -p --word-diff -- constitution/sec-102.md` |
+| Which law wrote each line of Article 102? | `git blame constitution/sec-102.md` |
+| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitution ':!constitution/README.md'` |
+| Article 102 as in force on 1 January 2015 | `python tools/on.py 2015-01-01 constitution sec-102` |
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Ugandan law](https://global-law.lexifina.com/v1/try_claude?country=uganda)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=uganda)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=bail&jurisdictions=uganda)**: a search of Ugandan law for "bail", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add uganda/national/acts
+python3 tools/law.py show 2026-01-01 uganda/national/acts/constitution/sec-102.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-- Each commit is dated at **noon, Africa/Kampala, on the day the change took effect**. The day is also in the `In-force:` trailer, which the tools read; enactment (assent) and Gazette publication dates are trailers too, where ULII states them.
-- **The day is ULII's.** Each version is a Laws.Africa expression, and its date is the day the amendment it takes in came into force, as the amendment list says ("[Amended by <Act> on <date>]"). For a consolidation (a revised edition) it is the date the edition is as at. An act's original expression is dated by its Gazette publication; where ULII gives a later commencement date ("Commenced on ..."), the first version is dated by that instead (see REPRODUCE.md, decisions).
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a law that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
+Each commit is dated at noon, Africa/Kampala, on the day the version took effect, and carries it in its `In-force:` trailer. The day is ULII's, the date of its point-in-time version (expression):
+
+- for an amendment, the day it came into force, as ULII's amendment list gives it ("[Amended by <Act> on <date>]");
+- for a revised edition, the day the edition is as at: 31 December 2000 (the Revised Edition of the Laws of Uganda) for the first version of 19 acts, and 31 December 2023 (the Revised Laws 2023) for 29 versions;
+- for an act as enacted, its Gazette publication, or the commencement day ULII states where it gives one (the Companies Act 2012, published on 18 September 2012, is dated 1 July 2013).
+
+Each change is credited to the law ULII's History names (`Act 1 of 2018`, `Statutory Instrument 25 of 2014`), and a provision only to a law its editorial note names where one version takes in several or is a revised edition; the rest are committed by the publisher (`ULII`) and labelled unexplained. The first version of 12 acts is the act as enacted, credited to the act itself; for the other 20 it is the "oldest version available", credited to ULII.
 
 ## How it is checked
 
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
-- **Against ULII today:** the last version of each act is ULII's current expression, as named by its own legislation listing on the retrieval day, and is the text of that expression page.
-- **Every version is its own dated expression**: each was parsed from an archived copy of exactly that expression's page, whose sha256 is recorded with the version.
-- The repository is rebuilt from the same data a second time and must give identical hashes.
-
-## What "author" means
-
-The author of a commit is the law that made the change, with an e-mail address that cannot exist, so `git blame` and `git log --author` name laws. The committer is always Lexifina.
-
-- **Credits come only from ULII's own notes.** A version whose History entry names one amending Act is credited to it. Where one version takes in several Acts, or a revised edition, a provision is credited to an Act only if ULII's editorial note in that provision names it ("[section 5 amended by section 2 of Act 3 of 2020]"); the rest are committed by the publisher and labelled "unexplained", and the commit message names the Acts the version takes in.
-- **The first commit** is the act as enacted where that is the oldest version; otherwise it is the oldest version available (a consolidation), credited to the publisher.
-- Blame credits whole lines (one paragraph per line). Use `git log -p --word-diff` to see exactly which words each change made.
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 99 versions of 32 acts, 0 mismatches (see [`REPRODUCE.md`](REPRODUCE.md)).
+- Every version is parsed from an archived copy of its own dated expression page, whose sha256 is recorded with it; every version ULII's History lists for an act is here.
+- A second build from the same corpus gave identical hashes for all 95 history commits and 143 tags.
+- History is append-only: no merge commits and no commit date that goes backwards.
 
 ## What it does not show
 
-- **Only the versions ULII publishes.** Changes before its oldest version are not separate commits.
-- **Editorial notes.** ULII's bracketed notes ("[Act No. 18 of 1996]", "[section 5 amended by ...]") are left out of the text and used only for credits, except where a provision has no other text (repealed or spent), where the note is what ULII prints and is kept.
-- **Headings above the provision** (Part, Chapter, Division) are left out; each file starts with its own number and heading. Footnotes are kept at the end of the file.
-- **Amendments not yet applied.** Where the LII lists an amendment as not yet applied to its consolidated text, it is not in this history; REPRODUCE.md lists each one.
-- **No OCR.** Acts the LII shows only as scanned PDFs are not included.
-
-## Uganda: the 2023 revised edition renumbered provisions
-
-The Revised Laws 2023 (the Law Reform Commission's revised edition, as at 31 December 2023) renumbered sections and articles across the laws. Files are named by number, so on 2023-12-31 a file can change from one provision to another: `penal-code/sec-166.md` was "Traffic in obscene publications" (repealed by section 28 of Act 1 of 2014) until 2023-12-30, and is "Absolute privilege of defamatory matter" from 2023-12-31. Read a file's history before that day with the old numbering in mind, and use `git log -p` around 2023-12-31 to follow a provision across the renumbering. ULII publishes the revised edition as a consolidation, and does not say which of its changes come from the Law Revision (Penalties in Criminal Matters) (Miscellaneous Amendments) Act 2021 or the Law Revision (Miscellaneous Amendments) Act 2023, which took effect before it but have no versions of their own; those changes are committed as the publisher's on 2023-12-31, and the commit message names both Acts.
-
-## How it is built
-
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+- **Most Ugandan law.** Only these 32 acts: no subsidiary legislation and no case law. Acts with a listed version that could not be read are left out, among them the Children Act, the Parliamentary Elections Act 2005 and the Data Protection and Privacy Act 2019.
+- **Changes before ULII's oldest version.** 19 acts start at the 2000 Revised Edition, which already holds the earlier amendments; the Political Parties and Organisations Act starts at the Revised Laws 2023.
+- **Which Act made the Revised Laws 2023's changes.** ULII publishes the edition as a consolidation, so wording it changed is credited to `ULII` unless a note names an Act; each such commit message names the Acts the version also takes in (for the Penal Code, the Law Revision Acts of 2021 and 2023).
+- **One provision across the 2023 renumbering.** The Revised Laws 2023 renumbered sections, and files are named by number, so on 31 December 2023 a file can change from one provision to another (`penal-code/sec-166.md`); use `git log -p` around that day.
+- **Changes within a line.** Each paragraph is one line, so blame credits a whole paragraph; use `git log -p --word-diff` for the words.
 
 ## Sources
 
-| Source | What it gives | Used for |
-| --- | --- | --- |
-| [ULII](https://ulii.org) | Dated point-in-time versions (expressions) of each act, its History and amendment list, and per-provision editorial notes; its listing page names the current version | The text and dates of every version |
-| [Internet Archive](https://web.archive.org/) | Archived copies of those expression pages | Reading them |
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [ULII](https://ulii.org) (Judiciary of Uganda, on the Laws.Africa Peachjam platform) | Legal information institute: consolidated acts | yes, each dated point-in-time version | The text, the day each version took effect, the History and amendment lists, and editorial notes naming the amending laws |
+| [Internet Archive](https://web.archive.org) | Archived copies of ULII's pages | as archived | Every page was read from an archived copy |
 
 ## Licence
 
-See [LICENSE](LICENSE). Source: ULII, the Uganda Legal Information Institute (https://ulii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0).
+See [`LICENSE`](LICENSE). The texts are ULII's, under CC BY-NC 4.0 with ULII credited as the source, so they may be used only for non-commercial purposes; neither ULII nor Laws.Africa endorses this repository. Lexifina's arrangement, commit messages, tables and tools are CC0 1.0.
 
-ULII's terms: CC BY-NC 4.0, crediting ULII as the source (https://ulii.org/en/terms-of-use/). Lexifina's arrangement, messages, tables and tools are CC0.
+No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
-This repository is not legal advice. Uganda's laws are published in English, so there is no separate summary in another language.
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
