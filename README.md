@@ -59,6 +59,7 @@ Each change is credited to the law ULII's History names (`Act 1 of 2018`, `Statu
 - Every version is parsed from an archived copy of its own dated expression page, whose sha256 is recorded with it; every version ULII's History lists for an act is here.
 - A second build from the same corpus gave identical hashes for all 95 history commits and 143 tags.
 - History is append-only: no merge commits and no commit date that goes backwards.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the law ULII's History names (`Act 1 of 2018`, `Statu
 See [`LICENSE`](LICENSE). The texts are ULII's, under CC BY-NC 4.0 with ULII credited as the source, so they may be used only for non-commercial purposes; neither ULII nor Laws.Africa endorses this repository. Lexifina's arrangement, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
