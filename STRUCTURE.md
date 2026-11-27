@@ -7,6 +7,7 @@
 | `subsidiary/<year>/<NNN>-<slug>/` | A statutory instrument, by the year and number of the S.I., e.g. `subsidiary/2006/012-national-environment-audit-regulations/` |
 | `acts/<year>/<NNN>-<slug>/` | An Act (or an Ordinance or Decree still in force), by the year and number of the law that made it, e.g. `acts/1950/012-penal-code/`, `acts/2006/011-employment/` |
 | `eac/acts/<year>/<slug>/` | An Act of the East African Community (made by the East African Legislative Assembly; it applies in Uganda as a Partner State), as enacted |
+| `eac/regulations/<year>/<slug>/` | Regulations and Rules made under an Act of the East African Community, as made |
 
 Each folder holds one file per section or article (`sec-102.md`; `sec-012-a.md` is section 12A) and per schedule
 (`sch-01.md`), `long-title.md`, and a `README.md` listing its provisions. Acts whose PDF gives no number are filed as

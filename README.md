@@ -9,7 +9,7 @@ The law of Uganda as a git history: one file per section or article, one commit 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Uganda's national law, which global-law reads at `uganda/national/acts/`.
 
-**What is in it now:** the Constitution and 31 other Acts from ULII (the Penal Code, the Evidence Act, the Companies Act, the Succession Act and others), with 99 dated versions from 2000 to 2024; 47 Acts of Parliament as enacted and 66 chapters of the Revised Edition 2000, from Parliament of Uganda; 78 statutory instruments as made, from the Gazette copies public bodies publish and from FAOLEX. [`REPRODUCE.md`](REPRODUCE.md) lists the ULII acts and their versions; [`STRUCTURE.md`](STRUCTURE.md) gives the layout.
+**What is in it now:** the Constitution and 31 other Acts from ULII (the Penal Code, the Evidence Act, the Companies Act, the Succession Act and others), with 99 dated versions from 2000 to 2024; 69 Acts of Parliament as enacted and 68 chapters of the Revised Edition 2000, from Parliament of Uganda; 92 statutory instruments as made, from the Gazette copies public bodies publish and from FAOLEX. [`REPRODUCE.md`](REPRODUCE.md) lists the ULII acts and their versions; [`STRUCTURE.md`](STRUCTURE.md) gives the layout.
 
 Each act is a folder, `acts/<year>/<NNN>-<slug>/` by the law that made it or `laws/cap-NNN-<slug>/` by its chapter in the Revised Edition 2000 (see [`STRUCTURE.md`](STRUCTURE.md)), with one file per section, article or schedule (articles too are named `sec-<number>.md`), plus `long-title.md` and a `README.md` listing its provisions and their changes (`constitution/sec-102.md` is Article 102 of the Constitution, on who may be elected President).
 
