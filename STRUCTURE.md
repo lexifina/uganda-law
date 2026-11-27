@@ -4,6 +4,7 @@
 | --- | --- |
 | `constitution/` | The Constitution of the Republic of Uganda, 1995 |
 | `laws/cap-NNN-<slug>/` | A chapter of the Revised Edition of the Laws of Uganda, 2000, by its chapter number, e.g. `laws/cap-266-accountants/` (Acts already filed under `acts/` from ULII are not repeated here) |
+| `subsidiary/<year>/<NNN>-<slug>/` | A statutory instrument, by the year and number of the S.I., e.g. `subsidiary/2006/012-national-environment-audit-regulations/` |
 | `acts/<year>/<NNN>-<slug>/` | An Act (or an Ordinance or Decree still in force), by the year and number of the law that made it, e.g. `acts/1950/012-penal-code/`, `acts/2006/011-employment/` |
 
 Each folder holds one file per section or article (`sec-102.md`; `sec-012-a.md` is section 12A) and per schedule
