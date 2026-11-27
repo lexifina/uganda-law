@@ -1,0 +1,26 @@
+{
+  "corpus": "ug/national/acts",
+  "name": "Uganda law: the Constitution and Acts of Uganda, from ULII point-in-time versions and the Acts Parliament of Uganda publishes",
+  "label": "Uganda",
+  "language": "en",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source",
+      "Kind"
+    ],
+    "time": "12:00 Africa/Kampala (UTC+3)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the law that made the change (e.g. \"Act 17 of 2006\"); otherwise the publisher",
+  "citation": {
+    "file": "((?:acts/[0-9]{4}/[^/]+)|constitution)/sec-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(section|s\\.?|article|art\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://ulii.org (archived copies)",
+    "https://www.parliament.go.ug/acts"
+  ]
+}
