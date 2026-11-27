@@ -35,6 +35,13 @@ Organization of the United Nations (https://www.fao.org/faolex/), as a secondary
 
   Source: FAOLEX Database, Food and Agriculture Organization of the United Nations (https://www.fao.org/faolex/).
 
+Some Acts and statutory instruments come from the PDFs Ugandan public bodies publish on their websites (for
+example the Capital Markets Authority, the Insurance Regulatory Authority, the Uganda Registration Services Bureau,
+the Uganda Communications Commission and ministries); each such commit names the body and the PDF in
+`Source-status: official copy (<body>, <site>)` and `Source:`. These are copies of the laws as printed in the Uganda
+Gazette; enactments are excluded from copyright in Uganda (Copyright and Neighbouring Rights Act, 2006, s. 7(1)(a)),
+and the sites state no other terms for them.
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
 tools) are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode

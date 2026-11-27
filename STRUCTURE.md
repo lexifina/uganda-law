@@ -6,6 +6,7 @@
 | `laws/cap-NNN-<slug>/` | A chapter of the Revised Edition of the Laws of Uganda, 2000, by its chapter number, e.g. `laws/cap-266-accountants/` (Acts already filed under `acts/` from ULII are not repeated here) |
 | `subsidiary/<year>/<NNN>-<slug>/` | A statutory instrument, by the year and number of the S.I., e.g. `subsidiary/2006/012-national-environment-audit-regulations/` |
 | `acts/<year>/<NNN>-<slug>/` | An Act (or an Ordinance or Decree still in force), by the year and number of the law that made it, e.g. `acts/1950/012-penal-code/`, `acts/2006/011-employment/` |
+| `eac/acts/<year>/<slug>/` | An Act of the East African Community (made by the East African Legislative Assembly; it applies in Uganda as a Partner State), as enacted |
 
 Each folder holds one file per section or article (`sec-102.md`; `sec-012-a.md` is section 12A) and per schedule
 (`sch-01.md`), `long-title.md`, and a `README.md` listing its provisions. Acts whose PDF gives no number are filed as
@@ -18,6 +19,9 @@ repeats. For the Acts from Parliament's PDFs, `In-force-basis:` says where that 
 
 - `commencement`: the Act's own "Date of Commencement" line;
 - `section-1`: the day section 1 names for the Act's coming into force;
+- `gazette-publication`: the day of the Uganda Gazette the text was published in, where the law says it comes
+  into force on publication (or a stated time after it), or, for a statutory instrument that gives no date, by
+  section 17(1)(a) of the Interpretation Act;
 - `revised-edition`: a chapter of the Revised Edition 2000, dated 31 December 2000, the day the edition is as at
   (its original commencement is in the `Commencement:` trailer).
 
