@@ -29,6 +29,12 @@ them. Where a PDF's text layer is the Parliament Library's OCR over page images,
 commit says `Text-source: publisher OCR`. Lexifina's changes are as above: one Markdown file per provision, spacing
 normalised, marginal notes, Part headings and running headers left out; the wording was not changed.
 
+Some laws not published by Parliament come from FAOLEX, the legislative database of the Food and Agriculture
+Organization of the United Nations (https://www.fao.org/faolex/), as a secondary copy; each such commit says
+`Source-status: secondary copy (FAOLEX, <record URL>)`. FAO's terms allow non-commercial reuse with credit:
+
+  Source: FAOLEX Database, Food and Agriculture Organization of the United Nations (https://www.fao.org/faolex/).
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
 tools) are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
