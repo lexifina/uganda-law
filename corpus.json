@@ -21,6 +21,11 @@
   },
   "sources": [
     "https://ulii.org (archived copies)",
-    "https://www.parliament.go.ug/acts"
+    "https://www.parliament.go.ug/acts",
+    "https://faolex.fao.org (secondary)",
+    "https://www.wipo.int/wipolex (secondary)",
+    "websites of Ugandan public bodies (official copies)",
+    "https://www.eala.org",
+    "https://www.eac.int"
   ]
 }
