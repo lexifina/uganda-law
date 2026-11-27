@@ -8,9 +8,10 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | --- | --- | --- | --- |
 | ULII, the Uganda Legal Information Institute (Judiciary of Uganda, on the Laws.Africa Peachjam platform) | <https://ulii.org> | 2026-10-28 | CC BY-NC 4.0, crediting ULII as the source (https://ulii.org/en/terms-of-use/) |
 | Internet Archive Wayback Machine | <https://web.archive.org> | 2026-10-28 | Archived copies of ULII pages; the content licence is ULII's |
+| Parliament of Uganda, Acts (PDFs; Acts as enacted and Revised Edition 2000 chapters) | <https://www.parliament.go.ug/acts> | from 2026-11-27 | Official texts; no licence terms stated |
 | ULII, the Uganda Legal Information Institute (Judiciary of Uganda, on the Laws.Africa Peachjam platform) | <https://ulii.org> | 2026-10-30 | CC BY-NC 4.0, crediting ULII as the source (https://ulii.org/en/terms-of-use/) |
 
-Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file; the Parliament texts are added by the runner described in STRUCTURE.md (one commit per Act, from the PDF whose sha256 the commit records in `Source-sha256:`).
 
 ## What is in it
 

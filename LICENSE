@@ -18,6 +18,17 @@ line; spacing, quotes and dashes were normalised; editorial notes, Part and Chap
 and the versions were arranged as git commits credited to the laws ULII names for each change.
 The wording of the law was not changed. Neither ULII nor Laws.Africa endorses this repository.
 
+Since 2026-11-27 the repository also holds Acts of Parliament as enacted and chapters of the Revised Edition of the
+Laws of Uganda, 2000, from the PDFs Parliament of Uganda publishes:
+
+  Parliament of Uganda, Acts, https://www.parliament.go.ug/acts (documents served by
+  https://cmis.parliament.go.ug), retrieved from 2026-11-27.
+
+These are official texts of the laws of Uganda as published by Parliament; the site states no licence terms for
+them. Where a PDF's text layer is the Parliament Library's OCR over page images, it is used as supplied and the
+commit says `Text-source: publisher OCR`. Lexifina's changes are as above: one Markdown file per provision, spacing
+normalised, marginal notes, Part headings and running headers left out; the wording was not changed.
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
 tools) are dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
