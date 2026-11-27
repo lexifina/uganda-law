@@ -1,5 +1,0 @@
-# SECOND SCHEDULE
-
-STANDARD DECLARATION FORM. I, .......................................... do solemnly swear to abide by the rules of the Public Procurement and Disposal Public Assets Authority including the principles of natural justice, equity, the Code of Ethical Conduct and best practices in the performance of my duties as a member of the Board of Directors of the Public Procurement and Disposal of Public Assets Authority. I also confirm that I do not have any direct or indirect interests of whatsoever nature in any item on the Agenda that may give rise to the principles of conflict of interest or cause unfair advantage to any party that is directly or indirectly involved in the particular agenda item. I shall also, at all times, maintain the required level of confidentiality and professional standards in the performance of my duties as a member of the Board of Directors. Subscribed and solemnly declared by me at ........................ on the .............. day of................................ 20….. Signed by................................................ Board Member
-
-Section 27 (1).

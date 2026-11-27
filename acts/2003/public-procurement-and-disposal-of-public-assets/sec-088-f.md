@@ -1,3 +1,0 @@
-# 88F. Framework contract.
-
-

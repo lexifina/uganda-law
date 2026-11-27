@@ -1,3 +1,0 @@
-# 59A. Preference schemes.
-
-
